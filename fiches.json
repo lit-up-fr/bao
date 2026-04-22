@@ -1,0 +1,3617 @@
+{
+  "fiches": [
+    {
+      "id": "brise-glace-antisava",
+      "nom": "Brise-glace Antisava",
+      "emoji": "🤪",
+      "catégorie": [
+        "Outils"
+      ],
+      "étape": [
+        "A. Cadrage - Connexion"
+      ],
+      "étape_code": "A",
+      "étape_nom": "Cadrage / Connexion",
+      "durée": "50 minutes à 1h20",
+      "mode": "Collectif",
+      "objectifs": [
+        "Créer un collectif"
+      ],
+      "clés_engagement": [
+        "Sécurité (rapport aux autres)"
+      ],
+      "matériel_catégorie": "Matériel de base",
+      "audience": [
+        "Professionnels",
+        "Pair aidants"
+      ],
+      "source": "Les Joyeux Audacieux",
+      "source_url": "https://lesjoyeuxaudacieux.mystrikingly.com/",
+      "participants": {
+        "min": 4,
+        "max": 12,
+        "âge_min": 14,
+        "âge_max": null
+      },
+      "intention": "Faire tomber les masques et créer une bulle de confiance. Au-delà de l'échauffement, l'Antisava invite chacun·e à dépasser la conversation de surface pour amorcer une vraie rencontre entre les membres du groupe.",
+      "pourquoi": "Cet outil s'appuie sur la clé d'engagement « Sécurité » : en posant un cadre bienveillant et en déléguant la prise de parole à une carte (et non à l'animateur·ice), vous créez les conditions d'une parole libre, choisie, protégée.",
+      "matériel": [
+        {
+          "item": "Le jeu de cartes Antisava (28 cartes-question)",
+          "lien": "https://drive.google.com/drive/folders/1vWcpGOlEwIhhzNQH0PwQh3CnrhzY0J1d",
+          "lien_label": "Télécharger les cartes (Google Drive)"
+        },
+        {
+          "item": "Un espace confortable où les participant·es peuvent s'asseoir en cercle ou en petits groupes"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Encourager des échanges sincères",
+          "détail": "Amener les participant·es à partager des aspects personnels ou professionnels de manière ouverte."
+        },
+        {
+          "titre": "Renforcer la cohésion",
+          "détail": "Créer des liens plus solides au sein du groupe en favorisant une meilleure compréhension mutuelle."
+        },
+        {
+          "titre": "Stimuler l'écoute active",
+          "détail": "Développer l'attention portée aux autres et l'empathie à travers des échanges bienveillants."
+        },
+        {
+          "titre": "Poser le cadre",
+          "détail": "Insister sur l'importance de la bienveillance et de l'absence de jugement durant les échanges."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Introduction",
+          "durée": "5 min",
+          "actions": [
+            "Présentez le jeu Antisava et l'intention derrière son utilisation.",
+            "Annoncez la durée et le format (cercle ou sous-groupes).",
+            "Rappelez qu'il s'agit d'un moment pour se rencontrer autrement."
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Explication des règles",
+          "durée": "5 min",
+          "actions": [
+            "<strong>Règle 1</strong> : chaque participant·e est libre de choisir ce qu'il ou elle souhaite partager.",
+            "<strong>Règle 2</strong> : l'écoute doit être attentive et bienveillante, sans interruption ni jugement.",
+            "Vérifiez que tout le monde est d'accord avec ces règles avant de commencer."
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Mise en pratique",
+          "durée": "30 à 60 min",
+          "actions": [
+            "Selon la taille du groupe, formez des sous-groupes de 4 à 6 personnes.",
+            "Placez le paquet de cartes au centre de chaque sous-groupe.",
+            "Un·e participant·e pioche une carte et lit la question à voix haute.",
+            "Il ou elle répond selon son ressenti et son expérience.",
+            "Les autres membres écoutent sans intervenir.",
+            "Le tour passe dans le sens des aiguilles d'une montre."
+          ]
+        },
+        {
+          "étape": 4,
+          "titre": "Conclusion",
+          "durée": "10 min",
+          "actions": [
+            "<strong>Partage en grand groupe</strong> : invitez les participant·es à exprimer leurs ressentis sur l'expérience.",
+            "Ce qu'ils et elles ont appris sur elles-mêmes ou sur les autres.",
+            "<strong>Retour sur les objectifs</strong> : discutez de la manière dont le jeu a contribué à renforcer la cohésion et l'écoute."
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "Commencez vous-même par un exemple de réponse pour donner le ton et rassurer.",
+        "Si un·e participant·e ne souhaite pas répondre, la règle n°1 le permet — ne jamais forcer.",
+        "Surveillez le temps : certaines questions peuvent ouvrir des conversations longues, c'est normal, ajustez.",
+        "Veillez à la répartition de la parole dans chaque sous-groupe."
+      ],
+      "variantes": [
+        "Pour un groupe qui se connaît déjà : sélectionnez les cartes les plus profondes (introspectives, aspirations).",
+        "Pour un premier rendez-vous : commencez par les cartes « communication » ou « relations », plus accessibles.",
+        "Version express (20 min) : 1 seule carte par personne, en cercle unique."
+      ],
+      "exemples_cartes": {
+        "introspectives": [
+          "Quel est un moment récent où tu t'es senti·e vraiment vivant·e ?",
+          "Quelle est une peur que tu aimerais surmonter ?",
+          "Si tu pouvais envoyer un message à ton toi d'il y a 5 ans, que lui dirais-tu ?"
+        ],
+        "émotions": [
+          "Comment vas-tu vraiment aujourd'hui ?",
+          "De quoi as-tu besoin en ce moment pour te sentir bien ?",
+          "Comment gères-tu les moments de stress ou d'incertitude ?"
+        ],
+        "relations": [
+          "Qu'est-ce qui te touche le plus chez une autre personne ?",
+          "Quel conseil donnerais-tu à quelqu'un qui veut mieux écouter les autres ?"
+        ],
+        "aspirations": [
+          "Quelle cause te tient particulièrement à cœur ?",
+          "Quel est un rêve que tu n'as pas encore osé poursuivre ?",
+          "Si tu pouvais changer une seule chose dans le monde, ce serait quoi ?"
+        ]
+      },
+      "supports_téléchargeables": [
+        {
+          "nom": "Fiche déroulé complet (PDF)",
+          "fichier": "antisava-deroule.pdf",
+          "type": "fiche"
+        },
+        {
+          "nom": "Jeu de cartes Antisava (28 cartes)",
+          "url": "https://drive.google.com/drive/folders/1vWcpGOlEwIhhzNQH0PwQh3CnrhzY0J1d",
+          "type": "support_externe"
+        }
+      ],
+      "étape_principale": "A. Cadrage - Connexion",
+      "étapes": [
+        "A. Cadrage - Connexion"
+      ],
+      "format": "Collectif",
+      "age": "",
+      "matériel_résumé": "Matériel de base",
+      "clés": [
+        "Sécurité (rapport aux autres)"
+      ],
+      "public_cible": [
+        "Professionnels",
+        "Pair aidants"
+      ]
+    },
+    {
+      "id": "crazy-8",
+      "nom": "Crazy 8",
+      "emoji": "⚡",
+      "catégorie": [
+        "Outils"
+      ],
+      "étape": [
+        "B3. Idéation"
+      ],
+      "étape_code": "B3",
+      "étape_nom": "Idéation",
+      "durée": "20 minutes",
+      "mode": "Collectif",
+      "objectifs": [
+        "Générer des idées créatives"
+      ],
+      "clés_engagement": [
+        "Plaisir (rapport à soi)"
+      ],
+      "matériel_catégorie": "Matériel de base",
+      "audience": [
+        "Professionnels"
+      ],
+      "source": "Design Sprint — Jake Knapp (Google Ventures)",
+      "source_url": "https://www.gv.com/sprint/",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": 12,
+        "âge_max": null
+      },
+      "intention": "Briser l'autocensure et faire émerger des idées à haute vitesse. En forçant la quantité (8 idées en 8 minutes), on lève les filtres critiques et on laisse place à la créativité brute.",
+      "pourquoi": "L'outil active la clé d'engagement « Plaisir » : le rythme rapide, le côté ludique du défi et la valorisation des idées farfelues créent un environnement où l'imagination s'autorise.",
+      "matériel": [
+        {
+          "item": "Feuilles blanches (une par participant·e)"
+        },
+        {
+          "item": "Feutres ou stylos"
+        },
+        {
+          "item": "Post-its"
+        },
+        {
+          "item": "Paperboard pour afficher les idées"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Générer un maximum d'idées rapidement",
+          "détail": "Mobiliser l'imagination des participant·es en contournant l'autocensure par la contrainte de temps."
+        },
+        {
+          "titre": "Autoriser les idées « folles »",
+          "détail": "Valoriser le fait qu'aucune idée n'est trop loufoque : c'est souvent là que germent les pistes les plus intéressantes."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Préparation des supports",
+          "durée": "2 min",
+          "actions": [
+            "Distribuez une feuille blanche à chaque participant·e.",
+            "Demandez-leur de plier la feuille en 8 cases (deux plis dans un sens, un dans l'autre).",
+            "Rappelez le thème ou la question de départ."
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Génération (8 idées en 8 minutes)",
+          "durée": "8 min",
+          "actions": [
+            "Lancez le chrono : chaque participant·e doit remplir les 8 cases en 8 minutes.",
+            "Une idée par case, dessinée ou écrite, peu importe.",
+            "<strong>Règle d'or</strong> : pas de jugement, même les idées les plus farfelues sont les bienvenues.",
+            "Si certain·es bloquent, rappelez qu'une mauvaise idée vaut mieux qu'une case vide."
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Partage des idées",
+          "durée": "10 min",
+          "actions": [
+            "Chacun·e présente ses idées au groupe, rapidement.",
+            "Pendant ce temps, vous notez les idées marquantes sur des post-its.",
+            "Collez-les sur un paperboard pour créer un mur d'idées collectif."
+          ]
+        },
+        {
+          "étape": 4,
+          "titre": "Idéation contrainte (optionnel)",
+          "durée": "variable",
+          "actions": [
+            "Si le groupe a généré peu d'idées, relancez avec des questions « Et si… ? »",
+            "Exemples : « Et si votre solution était un livre ? Un voyage d'un an ? Un jeu vidéo ? »",
+            "Les participant·es notent leurs nouvelles idées sur post-its et les ajoutent au mur."
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "Soyez strict·e sur le temps : c'est la contrainte qui fait l'outil.",
+        "Ne commentez aucune idée pendant la phase de génération.",
+        "Utilisez une musique rythmée pour entretenir l'énergie.",
+        "Si un·e participant·e est en difficulté, proposez-lui de dessiner plutôt qu'écrire."
+      ],
+      "variantes": [
+        "Crazy 4 : version courte (4 idées en 4 minutes) pour un échauffement rapide.",
+        "Crazy 8 en binôme : chaque duo doit produire ensemble 8 idées — favorise les rebonds.",
+        "Crazy 8 thématique : imposez un angle (ex. « imaginez la solution pour un enfant de 6 ans »)."
+      ],
+      "supports_téléchargeables": [
+        {
+          "nom": "Fiche déroulé complet (PDF)",
+          "fichier": "crazy8-deroule.pdf",
+          "type": "fiche"
+        },
+        {
+          "nom": "Gabarit Crazy 8 à imprimer (PDF)",
+          "fichier": "crazy8-gabarit.pdf",
+          "type": "gabarit"
+        }
+      ],
+      "étape_principale": "B3. Idéation",
+      "étapes": [
+        "B3. Idéation"
+      ],
+      "format": "Collectif",
+      "age": "",
+      "matériel_résumé": "Matériel de base",
+      "clés": [
+        "Plaisir (rapport à soi)"
+      ],
+      "public_cible": [
+        "Professionnels"
+      ]
+    },
+    {
+      "id": "papillon-voting",
+      "nom": "Papillon Voting",
+      "emoji": "🦋",
+      "catégorie": [
+        "Outils"
+      ],
+      "étape": [
+        "B4. Priorisation"
+      ],
+      "étape_code": "B4",
+      "étape_nom": "Priorisation",
+      "durée": "20 minutes",
+      "mode": "Collectif",
+      "objectifs": [
+        "Faire des choix collectifs"
+      ],
+      "clés_engagement": [
+        "Liberté (rapport à soi)"
+      ],
+      "matériel_catégorie": "Matériel de base",
+      "audience": [
+        "Professionnels",
+        "Pair aidants"
+      ],
+      "source": "Dot Voting — popularisé par IDEO",
+      "source_url": "https://outils.klap.io/",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": 8,
+        "âge_max": null
+      },
+      "intention": "Passer d'une liste d'idées à une liste de priorités, sans débat interminable. Le Papillon Voting (aussi appelé Dot Voting) donne à chacun·e le pouvoir d'exprimer ses préférences visuellement, en quelques secondes.",
+      "pourquoi": "La clé « Liberté » est activée : chaque participant·e vote comme il ou elle veut, sans se justifier, sans contrainte sociale. La décision émerge de la visualisation collective, pas d'un porte-parole dominant.",
+      "matériel": [
+        {
+          "item": "Des gommettes (ou marqueurs si besoin de marquer directement)"
+        },
+        {
+          "item": "Un support pour afficher les propositions (paperboard, tableau, mur)"
+        },
+        {
+          "item": "Optionnel : gommettes rouges pour exprimer un désaccord fort / un veto"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Identifier les idées prioritaires du collectif",
+          "détail": "Faire émerger les propositions jugées les plus pertinentes par l'ensemble du groupe."
+        },
+        {
+          "titre": "Favoriser l'écoute et la participation de tou·tes",
+          "détail": "Donner à chaque personne un poids égal dans la décision, indépendamment de sa capacité à prendre la parole."
+        },
+        {
+          "titre": "Établir un consensus solide",
+          "détail": "Obtenir un choix collectif visible, donc difficilement contestable a posteriori."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Présentation des propositions",
+          "durée": "5 min",
+          "actions": [
+            "Affichez clairement toutes les idées ou options à évaluer (une par post-it, ou listées sur paperboard).",
+            "Relisez rapidement chaque proposition à voix haute pour garantir que tout le monde a compris.",
+            "Répondez aux questions de clarification (pas de débat de fond à ce stade)."
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Distribution des votes",
+          "durée": "2 min",
+          "actions": [
+            "Distribuez à chaque participant·e un nombre défini de gommettes (en général : nombre de propositions ÷ 3).",
+            "Optionnel : distribuez 1 ou 2 gommettes rouges par personne pour signaler un désaccord fort.",
+            "Expliquez les règles : plusieurs gommettes peuvent être placées sur une même proposition. Ou pas toutes utilisées."
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Vote",
+          "durée": "5 min",
+          "actions": [
+            "Chacun·e se lève et place ses gommettes sur les propositions qu'il ou elle souhaite voir retenir.",
+            "Silence pendant le vote : on ne cherche pas à influencer les autres.",
+            "Si vous utilisez la gommette rouge : elle signale un point de vigilance fort sur la proposition."
+          ]
+        },
+        {
+          "étape": 4,
+          "titre": "Analyse des résultats",
+          "durée": "8 min",
+          "actions": [
+            "Identifiez les propositions ayant recueilli le plus de gommettes.",
+            "Si des gommettes rouges sont présentes, discutez collectivement du motif du désaccord.",
+            "Annoncez les propositions retenues et amorcez la suite (construction, planification)."
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "Ajustez le nombre de gommettes selon le nombre de propositions : trop peu bloque, trop dilue le signal.",
+        "Si deux propositions arrivent à égalité, proposez un second tour rapide avec 1 gommette par personne.",
+        "Le vote se fait debout, en mouvement : c'est aussi une manière de casser la passivité.",
+        "Attention aux effets de groupe : si quelqu'un vote en premier et influence les autres, répartissez le passage."
+      ],
+      "variantes": [
+        "Version en ligne : utilisez un outil type Klaxoon, Mural, ou Google Jamboard avec des emojis-réactions.",
+        "Papillon pondéré : chaque personne a 3 gommettes de tailles différentes (grande = 3pts, moyenne = 2pts, petite = 1pt).",
+        "Vote sur critères : distribuez 3 séries de gommettes de couleurs différentes (impact, faisabilité, envie)."
+      ],
+      "supports_téléchargeables": [
+        {
+          "nom": "Fiche déroulé complet (PDF)",
+          "fichier": "papillon-voting-deroule.pdf",
+          "type": "fiche"
+        }
+      ],
+      "étape_principale": "B4. Priorisation",
+      "étapes": [
+        "B4. Priorisation"
+      ],
+      "format": "Collectif",
+      "age": "",
+      "matériel_résumé": "Matériel de base",
+      "clés": [
+        "Liberté (rapport à soi)"
+      ],
+      "public_cible": [
+        "Professionnels",
+        "Pair aidants"
+      ]
+    },
+    {
+      "nom": "Tour de Froebel",
+      "source": "Méthode pédagogique issue de l'approche Froebel (pédagogie active)",
+      "source_url": null,
+      "intention": "Créer un collectif autour d'une expérience partagée où chacun·e a un rôle indispensable. Faire vivre concrètement ce qu'est la coopération : on n'arrive à rien seul·e, on arrive à beaucoup ensemble.",
+      "pourquoi": "L'outil active la clé d'engagement « Action » : le collectif se construit par le faire, pas par le discours. Chacun·e tient littéralement un fil de la solution, et l'expérience corporelle rend tangible l'interdépendance.",
+      "matériel": [
+        {
+          "item": "Jeu « Tour de Froebel » (cordes + dispositif de suspension + plots en bois) — à acheter en ligne, environ 80€"
+        },
+        {
+          "item": "Post-its"
+        },
+        {
+          "item": "3 grandes feuilles"
+        },
+        {
+          "item": "Stylos ou feutres"
+        },
+        {
+          "item": "Vidéo de démonstration",
+          "lien": "https://youtu.be/irxPMKVv-EY",
+          "lien_label": "Voir la vidéo YouTube"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Créer un collectif",
+          "détail": "Faire émerger le groupe comme entité : chacun·e se rend indispensable à la réussite commune."
+        },
+        {
+          "titre": "Vivre l'interdépendance",
+          "détail": "Expérimenter corporellement qu'on ne peut pas réussir seul·e et que chaque geste compte."
+        },
+        {
+          "titre": "Ouvrir la communication",
+          "détail": "Faire émerger naturellement les besoins de coordination et de parole dans le groupe."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Installation du jeu",
+          "durée": "2 min",
+          "actions": [
+            "L'animateur·ice donne 1 corde à chaque participant·e (les cordes sont préalablement fixées au dispositif de suspension).",
+            "Placez 1 plot couché au sol, au milieu du cercle.",
+            "Attention à la surface : un sol non glissant évite les mauvaises surprises."
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Expérimentation",
+          "durée": "5 min",
+          "actions": [
+            "Chacun·e tient sa corde, formant un cercle autour du plot.",
+            "<strong>Consigne :</strong> redresser le plot ensemble, sans le toucher autrement qu'avec le dispositif de suspension.",
+            "Laissez le groupe chercher, c'est là que la coopération émerge."
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Communication et coordination",
+          "durée": "5 min",
+          "actions": [
+            "Une fois la première réussite, l'animateur·ice ajoute d'autres plots (couchés ou debout).",
+            "<strong>Nouveau défi :</strong> construire la plus haute tour possible.",
+            "Le groupe doit s'organiser, parler, se coordonner."
+          ]
+        },
+        {
+          "étape": 4,
+          "titre": "Réalisation de la tour",
+          "durée": "5 min",
+          "actions": [
+            "L'animateur·ice peut perturber le jeu (ajouter une contrainte, chronométrer).",
+            "Laissez le groupe aller jusqu'au bout de son projet."
+          ]
+        },
+        {
+          "étape": 5,
+          "titre": "Débriefing",
+          "durée": "5 à 10 min",
+          "actions": [
+            "<strong>3 feuilles · 3 post-its</strong> : qu'est-ce que vous avez <strong>appris</strong> ? <strong>réussi</strong> ? <strong>ressenti</strong> ?",
+            "Chacun·e écrit puis colle ses post-its sur la feuille correspondante.",
+            "Faites le lien entre l'expérience vécue et ce qui va se passer dans les prochaines séances.",
+            "Si vous manquez de temps : débriefing à l'oral sans les feuilles."
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "Ne donnez pas la solution même si le groupe galère : c'est dans la recherche que naissent les échanges.",
+        "Observez qui prend naturellement la parole, qui s'efface. Vous pourrez vous en resservir lors du débriefing.",
+        "Le matériel est un investissement qui se rentabilise vite : cet atelier peut être réutilisé dans des dizaines de contextes.",
+        "Attention à la sécurité : vérifiez la stabilité du dispositif de suspension avant de commencer."
+      ],
+      "variantes": [
+        "Version silencieuse : interdire la parole pour forcer d'autres formes de communication.",
+        "Version en sous-groupes : deux équipes en parallèle, qui comparent ensuite leurs stratégies.",
+        "Version compétitive : chronométrer la réussite pour un effet challenge."
+      ],
+      "id": "tour-de-froebel",
+      "étape_principale": "A. Cadrage - Connexion",
+      "étapes": [
+        "A. Cadrage - Connexion"
+      ],
+      "durée": "20 minutes",
+      "format": "Collectif",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": null,
+        "âge_max": null
+      },
+      "age": "",
+      "matériel_résumé": "Achats préalables",
+      "clés": [
+        "Action (rapport à soi)"
+      ],
+      "public_cible": [
+        "Professionnels"
+      ],
+      "objectifs": [
+        "Créer un collectif"
+      ],
+      "mode": "Collectif",
+      "matériel_catégorie": "Achats préalables",
+      "étape_code": "A",
+      "étape_nom": "Cadrage / Connexion"
+    },
+    {
+      "nom": "Trouver les valeurs du collectif",
+      "source": "Lit uP",
+      "source_url": null,
+      "intention": "Faire émerger les valeurs qui vont porter le groupe dans les semaines à venir. Non pas des valeurs imposées, mais des valeurs reconnues par tou·tes parce qu'elles ont été choisies collectivement.",
+      "pourquoi": "L'outil active les clés « Appartenance » et « Sécurité » : en partageant ses valeurs, chacun·e se rend un peu plus visible au groupe. Et un collectif qui s'accorde sur ses valeurs pose le socle d'une confiance durable.",
+      "matériel": [
+        {
+          "item": "Post-its (2-3 par personne)"
+        },
+        {
+          "item": "Feutres"
+        },
+        {
+          "item": "Un paperboard ou un grand mur pour afficher"
+        },
+        {
+          "item": "Optionnel : une liste de valeurs imprimée pour aider ceux qui sèchent"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Créer un collectif",
+          "détail": "Construire un premier référentiel commun qui permette à chacun·e de se projeter dans le groupe."
+        },
+        {
+          "titre": "Développer la connaissance de soi",
+          "détail": "Clarifier ce qui compte pour soi en situation collective, avant de l'exprimer."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Introduction",
+          "durée": "2 min",
+          "actions": [
+            "Expliquer l'objectif : « On va chercher ensemble ce qui est important pour ce groupe. »",
+            "Rappeler qu'il n'y a pas de bonne ou mauvaise valeur."
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Réflexion individuelle",
+          "durée": "5 min",
+          "actions": [
+            "Chacun·e écrit sur 2 ou 3 post-its les valeurs qui lui semblent importantes pour bien travailler ensemble.",
+            "1 valeur = 1 post-it.",
+            "Si des personnes bloquent, proposez une liste de valeurs pour inspirer (respect, écoute, curiosité, engagement…)."
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Partage et regroupement",
+          "durée": "5 min",
+          "actions": [
+            "Chacun·e vient coller ses post-its en les expliquant en 1 phrase.",
+            "L'animateur·ice regroupe les post-its similaires au fur et à mesure."
+          ]
+        },
+        {
+          "étape": 4,
+          "titre": "Priorisation et choix",
+          "durée": "3 min",
+          "actions": [
+            "Identifier les 3 à 5 valeurs les plus citées.",
+            "Vérifier avec le groupe : « Est-ce que ces valeurs vous conviennent à tou·tes ? »",
+            "Ces valeurs peuvent être écrites en grand et affichées pour les prochaines séances."
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "Évitez de piloter : votre rôle est de faire émerger, pas de choisir.",
+        "Si une personne impose ses valeurs, revenez au collectif : « Et pour les autres, qu'en pensez-vous ? »",
+        "Gardez une trace visuelle qui restera affichée — c'est un repère pour réguler les tensions futures."
+      ],
+      "variantes": [
+        "Version « post-it dans le dos » : chacun·e écrit 1 valeur qu'il·elle voit chez les autres, on colle sur leur dos, puis chacun·e découvre ce qu'il·elle inspire.",
+        "Version longue : après identification des valeurs, travailler sur des engagements concrets (« Pour honorer la valeur X, je m'engage à… »)."
+      ],
+      "id": "trouver-les-valeurs-du-collectif",
+      "étape_principale": "A. Cadrage - Connexion",
+      "étapes": [
+        "A. Cadrage - Connexion"
+      ],
+      "durée": "15 minutes",
+      "format": "Collectif",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": null,
+        "âge_max": null
+      },
+      "age": "",
+      "matériel_résumé": "Matériel de base",
+      "clés": [
+        "Appartenance (rapport aux autres)",
+        "Sécurité (rapport aux autres)"
+      ],
+      "public_cible": [
+        "Professionnels",
+        "Pair aidants"
+      ],
+      "objectifs": [
+        "Créer un collectif",
+        "Développer la connaissance de soi"
+      ],
+      "mode": "Collectif",
+      "matériel_catégorie": "Matériel de base",
+      "étape_code": "A",
+      "étape_nom": "Cadrage / Connexion"
+    },
+    {
+      "nom": "Ice breaker",
+      "source": "Collection d'activités brise-glace (non spécifique à un auteur)",
+      "source_url": null,
+      "intention": "Commencer une séance en détendant l'atmosphère. Permettre aux participant·es de se rencontrer autrement que par leur fonction, et de poser une première brique de confiance.",
+      "pourquoi": "L'ice breaker active la clé « Sécurité » : en vivant ensemble un moment léger, le groupe se rend compte qu'on peut être en collectif sans se sentir jugé·e. C'est la condition de tout ce qui suivra.",
+      "matériel": [
+        {
+          "item": "Variable selon l'ice breaker choisi — souvent rien, parfois quelques accessoires simples"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Créer un collectif",
+          "détail": "Installer une dynamique de groupe détendue où chacun·e a pu dire un mot, même court."
+        },
+        {
+          "titre": "Lever les inhibitions",
+          "détail": "Passer du formel à l'informel sans forcer l'intimité."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Choisir un format adapté",
+          "durée": "—",
+          "actions": [
+            "<strong>Pour un groupe qui se découvre :</strong> tour de table des prénoms + un mot qui dit pourquoi on est là.",
+            "<strong>Pour un groupe qui se connaît :</strong> « Deux vérités et un mensonge » (chacun·e dit 3 phrases, les autres devinent laquelle est fausse).",
+            "<strong>Pour dynamiser :</strong> « Bingo humain » (une grille avec des cases « quelqu'un qui parle 3 langues », « quelqu'un qui a vécu à l'étranger »…, on cherche qui correspond)."
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Annoncer le cadre",
+          "durée": "2 min",
+          "actions": [
+            "Expliquez l'objectif en 1 phrase.",
+            "Rassurez : « Il n'y a pas de bonne ou mauvaise réponse. »",
+            "Donnez vous-même l'exemple en premier pour débloquer les timides."
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Animer l'activité",
+          "durée": "10 à 15 min",
+          "actions": [
+            "Gardez un œil sur le rythme : l'ice breaker doit rester court et léger.",
+            "Félicitez chaque prise de parole pour valoriser l'effort."
+          ]
+        },
+        {
+          "étape": 4,
+          "titre": "Conclure et transitionner",
+          "durée": "2 min",
+          "actions": [
+            "Remerciez le groupe.",
+            "Faites le lien avec la suite de la séance : « Maintenant qu'on se connaît un peu mieux, on va pouvoir… »"
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "Choisissez un ice breaker proportionné à la durée totale de la séance : 5 min pour une séance d'1 h, pas 30 min.",
+        "Participez vous-même, ça met le groupe à l'aise.",
+        "Évitez les activités trop intimes en début de parcours : commencez léger.",
+        "Adaptez au public : un·e ado n'aura pas les mêmes références qu'un·e trentenaire."
+      ],
+      "variantes": [
+        "Version « objet » : chacun·e apporte un objet qui le·la représente et le présente en 1 minute.",
+        "Version active : jeux qui impliquent de se déplacer (« tous ceux qui… changent de place »).",
+        "Version numérique : en visio, utiliser un outil comme Mentimeter pour projeter les réponses."
+      ],
+      "id": "ice-breaker",
+      "étape_principale": "",
+      "étapes": [],
+      "durée": "",
+      "format": "",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": null,
+        "âge_max": null
+      },
+      "age": "",
+      "matériel_résumé": "",
+      "clés": [],
+      "public_cible": [
+        "Pair aidants"
+      ],
+      "objectifs": [
+        "Créer un collectif"
+      ],
+      "mode": "",
+      "matériel_catégorie": ""
+    },
+    {
+      "nom": "Atelier collectif « Identification de ses forces »",
+      "source": "Lit uP",
+      "source_url": null,
+      "intention": "Permettre à chacun·e de reconnaître ses forces, pas seulement dans l'abstrait mais dans ce que les autres voient chez lui ou elle. Construire une image de soi réaliste, valorisante et partagée.",
+      "pourquoi": "L'outil active « Considération » et « Appartenance » : être regardé·e dans ses forces par ses pairs, c'est une forme de reconnaissance puissante. Cela installe un climat où chacun·e peut exister dans sa singularité.",
+      "matériel": [
+        {
+          "item": "Post-its de 2 couleurs différentes"
+        },
+        {
+          "item": "Feutres et stylos"
+        },
+        {
+          "item": "Grandes feuilles A3 (1 par participant·e)"
+        },
+        {
+          "item": "Optionnel : un jeu de cartes de forces (type Values Cards, cartes forces de caractère)"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Développer la connaissance de soi",
+          "détail": "Mettre des mots sur ses forces, souvent invisibles à soi-même mais évidentes pour les autres."
+        },
+        {
+          "titre": "Créer un collectif",
+          "détail": "Installer une culture de reconnaissance mutuelle où chacun·e apprend à voir les qualités des autres."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Introduction et cadrage",
+          "durée": "15 min",
+          "actions": [
+            "Expliquer le concept de « forces » : ce qui me vient naturellement, ce qui me donne de l'énergie, ce que les autres reconnaissent en moi.",
+            "Distinguer force et compétence : une force est une qualité personnelle, pas un savoir-faire appris.",
+            "Poser le cadre : bienveillance, non-jugement, confidentialité."
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Identification individuelle",
+          "durée": "30 min",
+          "actions": [
+            "Chacun·e prend une feuille A3 et écrit son prénom au centre.",
+            "Pendant 20 min, lister seul·e 5 à 10 forces que l'on se reconnaît.",
+            "S'appuyer sur des situations concrètes : « Quand est-ce que je me suis senti·e à ma place ? »",
+            "Les cartes de forces peuvent aider ceux qui manquent d'idées."
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Regard des autres",
+          "durée": "45 min",
+          "actions": [
+            "Chaque participant·e circule dans la salle et écrit, sur la feuille des autres, 1 à 3 forces qu'il·elle reconnaît chez eux.",
+            "<strong>Règle d'or :</strong> on n'écrit que des choses vraies et positives.",
+            "Prévoir au moins 30 min pour que chacun·e puisse contribuer à toutes les feuilles."
+          ]
+        },
+        {
+          "étape": 4,
+          "titre": "Lecture et appropriation",
+          "durée": "30 min",
+          "actions": [
+            "Chacun·e récupère sa feuille, lit en silence les forces notées par les autres.",
+            "Identifie les 3 forces les plus résonnantes.",
+            "Optionnel : tour de table où chacun·e partage une force qui l'a touché·e particulièrement."
+          ]
+        },
+        {
+          "étape": 5,
+          "titre": "Clôture",
+          "durée": "15 min",
+          "actions": [
+            "Débriefing collectif : qu'est-ce que cet atelier a fait bouger ?",
+            "Invitation à garder sa feuille précieusement.",
+            "Remerciement mutuel."
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "Ce format nécessite une confiance déjà installée — évitez-le en toute première séance.",
+        "Surveillez les dynamiques : certain·es peuvent se sentir submergé·es par les compliments.",
+        "Restez attentif·ve à ceux qui reçoivent peu de post-its : contribuez vous-même si nécessaire.",
+        "Cet atelier peut être émotionnellement intense : prévoir un temps de décompression à la fin."
+      ],
+      "variantes": [
+        "Version courte (1h30) : sauter l'étape 1 si le cadre est déjà posé, et réduire l'étape 4.",
+        "Version mixte : utiliser un jeu de cartes de forces pour cadrer et enrichir le vocabulaire du groupe.",
+        "Version en duo : travail en binôme (interviewer · interviewé·e) avant la restitution collective."
+      ],
+      "id": "atelier-collectif-identification-de-ses-forces",
+      "étape_principale": "A. Cadrage - Connexion",
+      "étapes": [
+        "A. Cadrage - Connexion"
+      ],
+      "durée": "3h",
+      "format": "Collectif",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": null,
+        "âge_max": null
+      },
+      "age": "",
+      "matériel_résumé": "Matériel de base",
+      "clés": [
+        "Considération (rapport aux autres)",
+        "Appartenance (rapport aux autres)"
+      ],
+      "public_cible": [
+        "Professionnels"
+      ],
+      "objectifs": [
+        "Développer la connaissance de soi",
+        "Créer un collectif"
+      ],
+      "mode": "Collectif",
+      "matériel_catégorie": "Matériel de base",
+      "étape_code": "A",
+      "étape_nom": "Cadrage / Connexion"
+    },
+    {
+      "nom": "Identifier ses leviers de motivation",
+      "source": "Lit uP — à partir des 9 clés de la motivation et de l'engagement",
+      "source_url": null,
+      "intention": "Aider les jeunes à prendre conscience de ce qui les met vraiment en mouvement. Pas la motivation « au général », mais leurs leviers personnels et situés.",
+      "pourquoi": "L'outil active la clé « Sens » : en identifiant ce qui les motive, les jeunes peuvent mieux relier leurs actions à leurs objectifs profonds. C'est aussi un socle pour le pro qui les accompagne.",
+      "matériel": [
+        {
+          "item": "Les 9 cartes-clés Lit uP",
+          "lien": "https://www.notion.so/1eb20357b34580639b50f2f44b6e780a",
+          "lien_label": "Voir les 9 clés"
+        },
+        {
+          "item": "Post-its"
+        },
+        {
+          "item": "Feutres"
+        },
+        {
+          "item": "Optionnel : des jetons ou gommettes pour voter"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Développer la connaissance de soi",
+          "détail": "Savoir reconnaître chez soi les ressorts qui nous donnent de l'énergie et ceux qui nous en prennent."
+        },
+        {
+          "titre": "Poser les bases de l'accompagnement",
+          "détail": "Donner au pro un premier repère pour ajuster sa posture à chaque jeune."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Présentation des 9 clés",
+          "durée": "10 min",
+          "actions": [
+            "Présenter les 9 clés regroupées en 3 besoins (Autonomie, Compétence, Appartenance).",
+            "Expliquer chaque clé avec un exemple concret.",
+            "Répondre aux questions de compréhension."
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Identification individuelle",
+          "durée": "10 min",
+          "actions": [
+            "Disposer les 9 cartes face visible.",
+            "Chacun·e choisit les 3 clés qui résonnent le plus avec ce qui l'anime.",
+            "Encourager à s'appuyer sur des moments vécus : « Quand est-ce que je me suis senti·e vraiment engagé·e ? »"
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Partage et échange",
+          "durée": "5 min",
+          "actions": [
+            "Tour de table : chacun·e présente ses 3 clés en 1-2 minutes.",
+            "Possibilité de poser des questions de clarification.",
+            "Si mode collectif : noter les fréquences pour voir les tendances du groupe."
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "Insistez sur le fait qu'il n'y a pas de bonne réponse : chacun·e a ses propres leviers.",
+        "Attention : cet outil peut faire émerger des prises de conscience fortes. Restez disponible.",
+        "Notez les clés choisies par chaque jeune pour les réutiliser en entretien individuel."
+      ],
+      "variantes": [
+        "Version individuelle : entretien de 30 min à 1h avec le·la jeune (voir la fiche dédiée).",
+        "Version longitudinale : refaire l'exercice tous les 3 mois pour voir l'évolution.",
+        "Version projet : chaque jeune choisit 1 clé à « travailler » dans les prochaines semaines."
+      ],
+      "id": "identifier-ses-leviers-de-motivation",
+      "étape_principale": "A. Cadrage - Connexion",
+      "étapes": [
+        "A. Cadrage - Connexion"
+      ],
+      "durée": "25 minutes",
+      "format": "Individuel ou collectif",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": null,
+        "âge_max": null
+      },
+      "age": "",
+      "matériel_résumé": "Matériel de base",
+      "clés": [
+        "Sens (rapport à soi)"
+      ],
+      "public_cible": [
+        "Professionnels"
+      ],
+      "objectifs": [
+        "Développer la connaissance de soi"
+      ],
+      "mode": "Individuel ou collectif",
+      "matériel_catégorie": "Matériel de base",
+      "étape_code": "A",
+      "étape_nom": "Cadrage / Connexion"
+    },
+    {
+      "nom": "Marshmallow Game",
+      "source": "Tom Wujec — Marshmallow Challenge",
+      "source_url": "https://marshmallowchallenge.com/",
+      "intention": "Faire vivre en 18 minutes tout le cycle d'un projet : cadrage, idéation, prototypage, test. Le tout dans une ambiance joyeuse où le risque d'échec est dédramatisé.",
+      "pourquoi": "L'outil active la clé « Action » : apprendre par le faire, apprendre par l'échec. Le célèbre constat de Tom Wujec : les enfants de maternelle battent les MBA parce qu'ils prototypent vite au lieu de théoriser longtemps.",
+      "matériel": [
+        {
+          "item": "Par équipe de 4-5 : 20 spaghetti, 1 m de ficelle, 1 m de scotch, 1 marshmallow"
+        },
+        {
+          "item": "Un chronomètre visible de tou·tes"
+        },
+        {
+          "item": "Un mètre pour mesurer les structures à la fin"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Créer un collectif",
+          "détail": "Faire vivre l'expérience collective d'un projet court et intense."
+        },
+        {
+          "titre": "Faire des choix collectifs",
+          "détail": "Apprendre à décider vite en équipe quand le temps est compté."
+        },
+        {
+          "titre": "Expérimenter la culture du prototype",
+          "détail": "Comprendre par le vécu qu'il vaut mieux tester vite que théoriser longtemps."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Introduction et constitution des équipes",
+          "durée": "5 min",
+          "actions": [
+            "Expliquer le défi : construire la plus haute structure autoportante possible en 18 min, avec le marshmallow au sommet.",
+            "Règle : la structure doit tenir debout toute seule quand on arrête le chrono.",
+            "Former des équipes de 4-5 personnes."
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Construction",
+          "durée": "18 min",
+          "actions": [
+            "Lancer le chronomètre.",
+            "Rester en retrait : laissez les équipes chercher, se tromper, recommencer.",
+            "Rappeler le temps restant à 10 min, 5 min, 1 min."
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Mesure et validation",
+          "durée": "5 min",
+          "actions": [
+            "À la fin des 18 min, tout le monde pose les mains.",
+            "Mesurer chaque structure encore debout.",
+            "Annoncer la gagnante (ou le record mondial : 99 cm)."
+          ]
+        },
+        {
+          "étape": 4,
+          "titre": "Débriefing",
+          "durée": "7 min",
+          "actions": [
+            "Qu'est-ce qui a marché ? Qu'est-ce qui a raté ?",
+            "À quel moment avez-vous testé pour la première fois ? (Souvent : trop tard.)",
+            "Ouvrir sur la culture du prototype : tester vite, apprendre de l'échec.",
+            "Faire le lien avec les projets réels du groupe."
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "Résistez à l'envie d'aider : les galères font partie de l'apprentissage.",
+        "Prévoyez un stock de remplacement pour les marshmallows écrasés pendant les tests.",
+        "Le débriefing est la partie la plus précieuse : ne le sacrifiez pas.",
+        "Évitez cet outil avec un groupe où certain·es ont des difficultés de motricité fine."
+      ],
+      "variantes": [
+        "Version « silencieuse » : les équipes ne peuvent pas parler pendant la construction.",
+        "Version « rôles imposés » : un·e observateur·ice par équipe, qui ne participe pas mais débriefe.",
+        "Version courte (10 min) : réduire le temps de construction, sans le débriefing c'est moins riche."
+      ],
+      "id": "marshmallow-game",
+      "étape_principale": "B6. Test",
+      "étapes": [
+        "B6. Test",
+        "A. Cadrage - Connexion"
+      ],
+      "durée": "35 minutes",
+      "format": "Collectif",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": null,
+        "âge_max": null
+      },
+      "age": "",
+      "matériel_résumé": "Achats préalables",
+      "clés": [
+        "Action (rapport à soi)"
+      ],
+      "public_cible": [
+        "Professionnels",
+        "Pair aidants"
+      ],
+      "objectifs": [
+        "Faire des choix collectifs",
+        "Créer un collectif"
+      ],
+      "mode": "Collectif",
+      "matériel_catégorie": "Achats préalables",
+      "étape_code": "B6",
+      "étape_nom": "Test"
+    },
+    {
+      "nom": "Casino Royal",
+      "source": "Source inconnue — jeu de communication non verbale adapté par Lit uP",
+      "source_url": null,
+      "intention": "Faire vivre, par le jeu, l'expérience du malentendu culturel : chacun·e joue selon des règles différentes sans le savoir. Un outil puissant pour parler de biais, de différences et de la manière dont on réagit face à l'incompréhension.",
+      "pourquoi": "L'outil active les clés « Appartenance », « Action » et « Plaisir » : on rit, on est bousculé·e, on apprend ensemble. L'apprentissage est incarné — pas théorisé. C'est bien plus puissant qu'un discours sur la tolérance.",
+      "matériel": [
+        {
+          "item": "3 jeux de cartes à jouer (52 cartes)"
+        },
+        {
+          "item": "3 tables séparées avec chaises autour (4 à 6 personnes par table)"
+        },
+        {
+          "item": "Les règles du jeu imprimées (3 règles différentes — 1 règle par personne, toutes les personnes d'une même table ont la même)"
+        },
+        {
+          "item": "Fiches de règles Casino Royal",
+          "lien": "https://www.notion.so/23a20357b34580ada89ce6489d7804e4",
+          "lien_label": "Voir sur Notion"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Comprendre l'autre et communiquer",
+          "détail": "Vivre une situation où les règles des autres ne sont pas les nôtres, pour ouvrir un vrai dialogue sur les biais et l'écoute."
+        },
+        {
+          "titre": "Ouvrir à la diversité",
+          "détail": "Faire émerger en douceur la réflexion sur les différences culturelles, les incompréhensions et les réflexes qu'elles génèrent."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Explication et positionnement",
+          "durée": "15 min",
+          "actions": [
+            "Accueillir en annonçant : « Un jeu de cartes pour travailler la mémorisation et la communication non verbale. »",
+            "Les participant·es se répartissent sur les 3 tables.",
+            "<strong>Règle d'or :</strong> à partir du moment où ils·elles sont assis·es, on ne parle plus. La communication est uniquement gestuelle (pas d'écrit non plus).",
+            "Quelques minutes pour lire silencieusement la règle du jeu posée face cachée sur chaque chaise.",
+            "Vérifier que tout le monde connaît carreaux, trèfles, cœurs, piques, valet, dame, roi, as.",
+            "Lancer 1 ou 2 parties-tests pour s'approprier la règle, puis récupérer les fiches."
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Tours de jeu",
+          "durée": "15 min",
+          "actions": [
+            "Démarrer les vraies parties.",
+            "Après 3-4 min, arrêter : chacun·e compte ses cartes gagnées.",
+            "Le·a gagnant·e de chaque table passe à la table suivante (sens des aiguilles d'une montre).",
+            "<strong>C'est là que la magie opère :</strong> ils·elles arrivent avec leur propre règle, sans savoir que la table applique une autre règle.",
+            "Observer les incompréhensions, frustrations, réactions. Enchaîner 2-3 tours, jusqu'à avoir de la matière pour le débriefing."
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Débriefing",
+          "durée": "15 min",
+          "actions": [
+            "Retour à chaud : <strong>comment avez-vous vécu le jeu ?</strong>",
+            "Est-ce que ça vous rappelle des situations du quotidien ?",
+            "Relancer sur des comportements observés : « J'ai vu que… », « Qu'avez-vous ressenti quand… ? »",
+            "Orienter vers : les biais, les différences culturelles, comment je réagis face à l'incompréhension (je m'énerve, je blâme, je m'interroge, j'essaie de comprendre ?)."
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "La <strong>règle du silence</strong> est le cœur de l'outil — tenez-la fermement, même si elle frustre.",
+        "Préparez-vous à recadrer : certain·es vont vouloir parler ou écrire, ne cédez pas.",
+        "Observez activement pendant le jeu : vos observations seront l'or du débriefing.",
+        "Ne moralisez pas — laissez le groupe formuler lui-même les enseignements."
+      ],
+      "variantes": [
+        "Version courte (30 min) : 1 seule partie test + 2 tours de vrai jeu + débriefing réduit.",
+        "Version très longue : enchaîner 4-5 tours pour un débriefing plus riche sur la durée.",
+        "Version lycée/collège : simplifier les règles pour un public plus jeune."
+      ],
+      "id": "casino-royal",
+      "étape_principale": "A. Cadrage - Connexion",
+      "étapes": [
+        "A. Cadrage - Connexion"
+      ],
+      "durée": "45 minutes",
+      "format": "Collectif",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": null,
+        "âge_max": null
+      },
+      "age": "",
+      "matériel_résumé": "Matériel de base",
+      "clés": [
+        "Appartenance (rapport aux autres)",
+        "Action (rapport à soi)",
+        "Plaisir (rapport à soi)"
+      ],
+      "public_cible": [
+        "Professionnels"
+      ],
+      "objectifs": [
+        "Comprendre l'autre et communiquer"
+      ],
+      "mode": "Collectif",
+      "matériel_catégorie": "Matériel de base",
+      "étape_code": "A",
+      "étape_nom": "Cadrage / Connexion"
+    },
+    {
+      "nom": "Et si ?",
+      "source": "Lit uP",
+      "source_url": null,
+      "intention": "Relancer la créativité d'un groupe quand l'idéation s'essouffle. Forcer l'imagination à sortir de ses chemins habituels en imposant des contraintes inattendues.",
+      "pourquoi": "L'outil active la clé « Plaisir » : la contrainte ludique libère l'imagination. On rit des idées absurdes, on ose celles qu'on n'aurait pas osées, et dans le tas naissent parfois les pistes les plus fécondes.",
+      "matériel": [
+        {
+          "item": "Post-its"
+        },
+        {
+          "item": "Feutres ou stylos"
+        },
+        {
+          "item": "Les cartes « contraintes » Lit uP",
+          "lien": "https://www.notion.so/1bc20357b34580508ef1e8c27702f396",
+          "lien_label": "Télécharger les cartes"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Générer des idées créatives",
+          "détail": "Contourner l'autocensure par le biais de contraintes ludiques qui rendent tout possible."
+        },
+        {
+          "titre": "Relancer un groupe en panne d'idées",
+          "détail": "Outil de rebond quand l'idéation libre s'essouffle et que la routine reprend le dessus."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Diagnostic du besoin",
+          "durée": "2 min",
+          "actions": [
+            "Utiliser l'outil quand l'énergie baisse dans une séance d'idéation.",
+            "Annoncer : « On va relancer le jeu avec des contraintes surprises. »"
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Tirage des cartes",
+          "durée": "3 min",
+          "actions": [
+            "Chaque participant·e pioche 3 cartes « contraintes ».",
+            "Exemples : « Et si c'était une chanson ? », « Et si on n'avait que 5 minutes ? », « Et si on le faisait avec 3 ans d'enfants ? ».",
+            "Chacun·e choisit la carte qui l'inspire le plus."
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Ideation contrainte",
+          "durée": "10 min",
+          "actions": [
+            "Chacun·e propose une nouvelle idée en commençant par <strong>« Et si notre projet était… ? »</strong>.",
+            "Écrire sur un post-it les idées qui méritent d'être retenues.",
+            "Laisser le groupe se nourrir des propositions des autres — tout est permis."
+          ]
+        },
+        {
+          "étape": 4,
+          "titre": "Capitalisation",
+          "durée": "5 min",
+          "actions": [
+            "Relire les post-its produits.",
+            "Identifier 2-3 pistes qui mériteraient d'être creusées.",
+            "Faire le lien avec la suite de la séance."
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "C'est un outil de <strong>rebond</strong>, pas un outil d'idéation de départ : utilisez-le après 15-20 min d'idéation classique.",
+        "Encouragez les idées absurdes — elles sont souvent le déclencheur des bonnes pistes.",
+        "Ne vous arrêtez pas trop tôt : les 3 premières « Et si » sont souvent timides.",
+        "Vous pouvez créer vos propres cartes contraintes adaptées à votre contexte."
+      ],
+      "variantes": [
+        "Version duo : travail en binôme pour ceux qui ont du mal à parler en grand groupe.",
+        "Version enchaînée : une contrainte = une minute = une idée, puis on passe à la suivante.",
+        "Version « casse-tête » : toutes les cartes en même temps (3 contraintes à combiner)."
+      ],
+      "id": "et-si",
+      "étape_principale": "B3. Idéation",
+      "étapes": [
+        "B3. Idéation"
+      ],
+      "durée": "20 minutes",
+      "format": "Collectif",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": null,
+        "âge_max": null
+      },
+      "age": "",
+      "matériel_résumé": "Matériel de base",
+      "clés": [
+        "Plaisir (rapport à soi)"
+      ],
+      "public_cible": [
+        "Professionnels"
+      ],
+      "objectifs": [
+        "Générer des idées créatives"
+      ],
+      "mode": "Collectif",
+      "matériel_catégorie": "Matériel de base",
+      "étape_code": "B3",
+      "étape_nom": "Idéation"
+    },
+    {
+      "nom": "Débriefing d'atelier collectif avec les « clés de l'engagement »",
+      "source": "Lit uP",
+      "source_url": null,
+      "intention": "Transformer un simple « ça s'est bien passé ? » en diagnostic structuré et actionnable. Permettre au groupe de nommer ce qui a fonctionné et de co-construire des solutions pour les prochaines séances.",
+      "pourquoi": "L'outil active « Considération » : chacun·e est invité·e à donner son avis structurant sur ce qu'il·elle a vécu. La démarche incarne la philosophie Lit uP : <strong>les jeunes ne sont pas des bénéficiaires, ils·elles sont acteur·ices de l'amélioration continue.</strong>",
+      "matériel": [
+        {
+          "item": "9 cartes « clés » + 1 carte « batterie »",
+          "lien": "https://www.notion.so/1b920357b3458011ba99c9e259bfccea",
+          "lien_label": "Télécharger les cartes Lit uP"
+        },
+        {
+          "item": "Jetons ou gommettes (30 par personne — option 1) OU jetons de 4 couleurs différentes (option 2)"
+        },
+        {
+          "item": "Post-its et feutres"
+        },
+        {
+          "item": "Timer visuel (appli ou sablier)"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Évaluer un outil/atelier/programme",
+          "détail": "Mesurer l'impact d'une séance au regard des 9 clés de l'engagement, finement et collectivement."
+        },
+        {
+          "titre": "Co-construire des améliorations",
+          "détail": "Faire des jeunes les architectes de ce qui rendra la prochaine séance encore meilleure."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 0,
+          "titre": "Explication des clés (optionnelle)",
+          "durée": "10 min",
+          "actions": [
+            "<strong>À faire uniquement si c'est la première fois que les jeunes utilisent cet outil.</strong>",
+            "Prendre le temps de présenter chaque clé, la légende, répondre aux questions.",
+            "Si vous faites cette étape, comptez 10 min de plus. Elle peut remplacer le « défi solution » de l'étape 3 pour une première fois."
+          ]
+        },
+        {
+          "étape": 1,
+          "titre": "Exploration des clés",
+          "durée": "10 min",
+          "actions": [
+            "Disposer les 9 cartes-clés + 1 carte « gestion des batteries » sur la table.",
+            "Chacun·e a 3 min pour placer 0 à 3 jetons sur chaque carte.",
+            "<strong>Pour évaluer un atelier :</strong> 0 = non / 1 = un peu / 2 = plutôt oui / 3 = tout à fait.",
+            "<strong>Pour évaluer un programme :</strong> 0 = rarement / 1 = de temps en temps / 2 = la plupart du temps / 3 = toujours.",
+            "Prendre une photo du résultat.",
+            "<em>Astuce : si les participant·es risquent de s'influencer, demandez-leur de réfléchir à leur choix sur un brouillon avant de poser les jetons.</em>"
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Cartographie forces et risques",
+          "durée": "5 min",
+          "actions": [
+            "Identifier les 2 clés qui ont récolté le plus de votes (les forces).",
+            "Chacun·e écrit 1 post-it (ou s'exprime à l'oral) pour expliquer ce qui a permis cela.",
+            "Identifier les 2 clés qui ont récolté le moins de votes (les risques)."
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Défi solution",
+          "durée": "10 min",
+          "actions": [
+            "Répartir le groupe en équipes de 5-6 personnes.",
+            "Distribuer du matériel (lego, pâte à modeler, paperboard, feutres…).",
+            "<strong>Défi :</strong> en 5 min, prototyper une solution (objet, rituel, activité…) pour améliorer les 2 clés les plus faibles.",
+            "Chaque équipe présente son prototype en 30 secondes.",
+            "Vote (main levée ou jetons) pour la meilleure solution à mettre en place."
+          ]
+        },
+        {
+          "étape": 4,
+          "titre": "Engagement (optionnel)",
+          "durée": "5 min",
+          "actions": [
+            "Chacun·e choisit un engagement <strong>collectif</strong> ou <strong>individuel</strong> pour la prochaine séance.",
+            "1 action concrète qui contribuerait à améliorer la dynamique.",
+            "Noter les engagements pour pouvoir y revenir la fois d'après."
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "Si vous avez seulement 10 minutes, l'étape 1 seule suffit déjà à produire un diagnostic.",
+        "Si vous faites tourner un groupe sur la durée, refaites l'exercice toutes les 3-4 séances pour mesurer l'évolution.",
+        "<strong>Pensez à photographier</strong> la configuration des jetons : c'est votre trace pour comparer dans le temps.",
+        "Si un groupe se connaît bien, marquer les jetons d'une croix permet d'identifier les 3 leviers principaux de chaque jeune."
+      ],
+      "variantes": [
+        "Version jetons colorés : chaque couleur = une réponse. Plus visuel pour voir les forces/faiblesses d'un coup d'œil.",
+        "Version individuelle : voir la fiche « Entretien individuel Clés d'engagement » (25 min par jeune).",
+        "Version express (10 min) : arrêter à l'étape 1, les jetons suffisent à produire un radar."
+      ],
+      "id": "debriefing-datelier-collectif-avec-les-cles-de-lengagement",
+      "étape_principale": "C. Débriefing",
+      "étapes": [
+        "C. Débriefing"
+      ],
+      "durée": "10 à 30 minutes",
+      "format": "Collectif",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": null,
+        "âge_max": null
+      },
+      "age": "",
+      "matériel_résumé": "Matériel de base",
+      "clés": [
+        "Considération (rapport aux autres)"
+      ],
+      "public_cible": [
+        "Professionnels",
+        "Pair aidants"
+      ],
+      "objectifs": [
+        "Evaluer un outil/atelier/programme"
+      ],
+      "mode": "Collectif",
+      "matériel_catégorie": "Matériel de base",
+      "étape_code": "C",
+      "étape_nom": "Débriefing"
+    },
+    {
+      "nom": "Entretien individuel « Clés d'engagement »",
+      "source": "Lit uP",
+      "source_url": null,
+      "intention": "Prendre 25 minutes pour discuter en face-à-face des 9 clés avec un·e jeune. Comprendre finement ce qui le·la met en mouvement et ce qui l'éloigne, dans un cadre protégé qui favorise la parole authentique.",
+      "pourquoi": "L'outil active « Considération » et « Sens » : prendre ce temps individuel, c'est un acte de reconnaissance en soi. Et le·la jeune peut y formuler des choses qu'il·elle n'oserait pas en collectif.",
+      "matériel": [
+        {
+          "item": "Les 9 cartes-clés Lit uP",
+          "lien": "https://www.notion.so/1eb20357b34580639b50f2f44b6e780a",
+          "lien_label": "Voir les 9 clés"
+        },
+        {
+          "item": "Feuille et stylo pour noter les échanges"
+        },
+        {
+          "item": "Un espace calme, confidentiel"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Évaluer un atelier/programme à l'échelle individuelle",
+          "détail": "Recueillir le vécu précis d'un·e jeune sur ce qui fonctionne ou pas pour lui·elle."
+        },
+        {
+          "titre": "Nourrir l'accompagnement personnalisé",
+          "détail": "Donner au pro des appuis concrets pour ajuster sa posture séance après séance."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Installation du cadre",
+          "durée": "3 min",
+          "actions": [
+            "Accueillir chaleureusement.",
+            "Rappeler : « Ce que tu vas dire reste entre nous sauf si tu veux que je le partage. »",
+            "Expliquer l'objectif : « On va regarder ensemble ce qui te fait avancer et ce qui te freine. »"
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Exploration des clés",
+          "durée": "15 min",
+          "actions": [
+            "Disposer les 9 cartes entre vous.",
+            "Demander : <strong>« Laquelle te parle le plus ? Pourquoi ? »</strong>",
+            "Laisser parler — reformuler, relancer par des questions ouvertes.",
+            "Explorer 3-4 clés maximum dans ce temps.",
+            "Pour chaque clé : <em>« Qu'est-ce que tu as vécu dernièrement qui la nourrit ? Qu'est-ce qui te manque ? »</em>"
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Priorisation",
+          "durée": "5 min",
+          "actions": [
+            "« Parmi tout ça, qu'est-ce qui te semble le plus important à travailler ? »",
+            "Formuler ensemble 1 ou 2 pistes d'action concrètes.",
+            "Ne pas forcer : si le·a jeune n'est pas prêt·e, c'est déjà précieux d'avoir parlé."
+          ]
+        },
+        {
+          "étape": 4,
+          "titre": "Clôture",
+          "durée": "2 min",
+          "actions": [
+            "Demander : « Qu'est-ce que tu retiens de notre échange ? »",
+            "Remercier pour la confiance.",
+            "Dire quand vous reparlerez à nouveau (dans 1 mois ? avant la prochaine séance ?)."
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "Votre rôle n'est pas de juger ou de convaincre — <strong>vous êtes un miroir bienveillant.</strong>",
+        "Utilisez la reformulation : « Si je comprends bien, tu me dis que… »",
+        "N'hésitez pas à partager une observation : « Je t'ai vu·e particulièrement engagé·e quand… »",
+        "Prenez des notes <em>après</em> l'entretien plutôt que pendant, pour ne pas rompre l'écoute."
+      ],
+      "variantes": [
+        "Version courte (15 min) : 2 clés seulement, pour un point d'étape rapide.",
+        "Version longitudinale : reprendre les mêmes clés 3 mois plus tard pour mesurer les évolutions.",
+        "Version en binôme pro + pair aidant : deux regards complémentaires sur le·la même jeune (avec son accord)."
+      ],
+      "id": "entretien-individuel-cles-dengagement",
+      "étape_principale": "C. Débriefing",
+      "étapes": [
+        "C. Débriefing"
+      ],
+      "durée": "25 minutes",
+      "format": "Individuel",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": null,
+        "âge_max": null
+      },
+      "age": "",
+      "matériel_résumé": "Matériel de base",
+      "clés": [
+        "Considération (rapport aux autres)",
+        "Sens (rapport à soi)"
+      ],
+      "public_cible": [
+        "Professionnels"
+      ],
+      "objectifs": [
+        "Evaluer un outil/atelier/programme"
+      ],
+      "mode": "Individuel",
+      "matériel_catégorie": "Matériel de base",
+      "étape_code": "C",
+      "étape_nom": "Débriefing"
+    },
+    {
+      "nom": "Ligne de vie",
+      "source": "Outil classique de coaching et de récit de vie",
+      "source_url": null,
+      "intention": "Permettre à un·e jeune (ou à un groupe) de prendre du recul sur son parcours en le représentant visuellement. Identifier les moments fondateurs, les difficultés traversées, les apprentissages qui se dégagent.",
+      "pourquoi": "L'outil active la clé « Sens » : en (re)lisant son parcours, on voit apparaître des fils conducteurs, des valeurs, des aspirations. Cela aide à se projeter avec plus de clarté.",
+      "matériel": [
+        {
+          "item": "Grande feuille A3 ou A2 par personne"
+        },
+        {
+          "item": "Feutres de couleurs variées"
+        },
+        {
+          "item": "Optionnel : photos, magazines pour découper et coller (version enrichie)"
+        },
+        {
+          "item": "Optionnel : musique douce en fond"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Développer la connaissance de soi",
+          "détail": "Mettre en perspective son parcours pour y identifier des régularités, des valeurs, des forces."
+        },
+        {
+          "titre": "Préparer un projet d'avenir",
+          "détail": "Utiliser le regard sur le passé comme tremplin pour ce qui vient."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Introduction et cadrage",
+          "durée": "10 min",
+          "actions": [
+            "Expliquer le principe : représenter sa vie comme une ligne, avec des hauts (en haut) et des bas (en bas).",
+            "Rassurer : « Vous choisissez ce que vous partagez — rien n'est obligatoire. »",
+            "Poser un cadre de bienveillance et de confidentialité."
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Réalisation individuelle",
+          "durée": "30 à 60 min",
+          "actions": [
+            "Chacun·e trace une ligne horizontale au centre de sa feuille.",
+            "Positionner les événements marquants : haut = positifs, bas = difficiles.",
+            "Annoter chaque point avec un mot, une date, un dessin.",
+            "Identifier les tournants, les rencontres, les apprentissages.",
+            "<strong>Laisser du temps :</strong> c'est un travail introspectif exigeant."
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Partage (optionnel, en version collective)",
+          "durée": "15 à 60 min",
+          "actions": [
+            "En binôme ou en petit groupe, chacun·e présente sa ligne.",
+            "Règle d'or : on écoute sans juger, on pose des questions ouvertes.",
+            "Le·a jeune choisit ce qu'il·elle partage ou garde pour lui·elle.",
+            "En version longue : possibilité de présentation en plénière pour ceux qui le souhaitent."
+          ]
+        },
+        {
+          "étape": 4,
+          "titre": "Tirer les fils",
+          "durée": "15 min",
+          "actions": [
+            "« Quelles valeurs apparaissent dans votre parcours ? »",
+            "« Qu'est-ce qui revient souvent ? »",
+            "« Qu'est-ce qui semble se préparer pour la suite ? »",
+            "Laisser chacun·e noter ses 3 apprentissages sur une autre feuille."
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "Cet outil est <strong>émotionnellement intense</strong> — ne l'utilisez pas en début de parcours.",
+        "Respectez totalement le choix de ce qui est partagé — insister serait une violence.",
+        "Prévoir un temps de décompression à la fin (café, pause, activité légère).",
+        "Si un·e participant·e est submergé·e, proposez un temps en retrait avec vous ou un pair."
+      ],
+      "variantes": [
+        "Version individuelle (1h) : en entretien pro+jeune, sans partage collectif.",
+        "Version collective (3h) : avec partage en binôme puis en plénière volontaire.",
+        "Version prospective : faire aussi la ligne des 10 prochaines années (imaginée).",
+        "Version visuelle : photos, collages, magazines pour une dimension plus créative."
+      ],
+      "id": "ligne-de-vie",
+      "étape_principale": "Autres",
+      "étapes": [
+        "Autres"
+      ],
+      "durée": "1h à 3h",
+      "format": "Individuel ou collectif",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": null,
+        "âge_max": null
+      },
+      "age": "",
+      "matériel_résumé": "Matériel de base",
+      "clés": [
+        "Sens (rapport à soi)"
+      ],
+      "public_cible": [
+        "Professionnels"
+      ],
+      "objectifs": [
+        "Développer la connaissance de soi"
+      ],
+      "mode": "Individuel ou collectif",
+      "matériel_catégorie": "Matériel de base",
+      "étape_code": "○",
+      "étape_nom": "Autres"
+    },
+    {
+      "nom": "Débat mouvant",
+      "source": "Outil d'éducation populaire (GRAP, Scop, mouvements d'éducation populaire)",
+      "source_url": null,
+      "intention": "Faire débattre un groupe en le mettant littéralement en mouvement : on se positionne dans l'espace selon ses convictions, on écoute les arguments des autres, on peut changer d'avis — et le faire voir.",
+      "pourquoi": "L'outil active plusieurs clés : <strong>Liberté</strong> (chacun·e se positionne), <strong>Action</strong> (on bouge), <strong>Sécurité</strong> (on peut changer d'avis sans se justifier). La parole s'ouvre parce que le débat est incarné, pas théorique.",
+      "matériel": [
+        {
+          "item": "Un espace dégagé (salle de classe avec tables repoussées, ou extérieur)"
+        },
+        {
+          "item": "Une ligne au sol (scotch, craie) ou deux zones délimitées (« d'accord » / « pas d'accord »)"
+        },
+        {
+          "item": "Une série d'affirmations préparées à l'avance"
+        },
+        {
+          "item": "Facultatif : paperboard pour noter les arguments-clés"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Comprendre l'autre et communiquer",
+          "détail": "Obliger à écouter vraiment avant de se positionner, et à accepter que les autres pensent différemment."
+        },
+        {
+          "titre": "Libérer la parole",
+          "détail": "Rendre visible les désaccords sans avoir à les formuler en premier."
+        },
+        {
+          "titre": "Travailler l'argumentation",
+          "détail": "Apprendre à défendre un point de vue et à en changer quand les arguments sont convaincants."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Installation du cadre",
+          "durée": "5 min",
+          "actions": [
+            "Tracer une ligne au sol (ou délimiter deux zones).",
+            "Expliquer : « Je vais lire une affirmation. D'un côté ceux qui sont d'accord, de l'autre ceux qui ne le sont pas. »",
+            "<strong>Règles :</strong> on écoute, on peut changer d'avis à tout moment, on n'interrompt pas."
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Premier tour de débat",
+          "durée": "10 min",
+          "actions": [
+            "Lancer une 1re affirmation (plutôt consensuelle pour démarrer).",
+            "Les participant·es se positionnent en silence.",
+            "Donner la parole alternativement à chaque camp — 1 argument à la fois.",
+            "<strong>Quand un argument convainc, on a le droit de changer de côté.</strong> Le mouvement visible renforce l'impact."
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Affirmations montée en tension",
+          "durée": "20 à 30 min",
+          "actions": [
+            "Enchaîner 3 à 5 affirmations de plus en plus engageantes.",
+            "Varier les sujets selon le groupe (consommation, école, relations, engagement citoyen…).",
+            "Noter les arguments-clés sur un paperboard pour capitaliser."
+          ]
+        },
+        {
+          "étape": 4,
+          "titre": "Débriefing",
+          "durée": "10 min",
+          "actions": [
+            "« Avez-vous changé d'avis ? Sur quoi ? »",
+            "« Quel argument vous a le plus marqué·e ? »",
+            "« Qu'est-ce qui était difficile dans cet exercice ? »",
+            "Ouvrir sur : la différence entre convaincre et comprendre, le droit de changer d'avis, l'écoute active."
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "<strong>Choisissez vos affirmations avec soin</strong> — elles doivent cliver sans humilier.",
+        "Gardez une posture neutre : ne donnez pas votre avis.",
+        "Si un·e participant·e domine : « Est-ce que quelqu'un d'autre veut ajouter un argument ? »",
+        "Valorisez les changements d'avis : « C'est courageux de changer de côté. »"
+      ],
+      "variantes": [
+        "Version gradient : au lieu de 2 zones binaires, une ligne avec plusieurs positions intermédiaires.",
+        "Version silencieuse : les participant·es se positionnent sans parler, on note qui est où, puis on débat.",
+        "Version co-animée : un·e pro + un·e pair aidant·e alternent les relances."
+      ],
+      "id": "debat-mouvant",
+      "étape_principale": "B1. Analyse/Compréhension",
+      "étapes": [
+        "B1. Analyse/Compréhension"
+      ],
+      "durée": "30 minutes",
+      "format": "Collectif",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": null,
+        "âge_max": null
+      },
+      "age": "",
+      "matériel_résumé": "Matériel de base",
+      "clés": [
+        "Considération (rapport aux autres)"
+      ],
+      "public_cible": [
+        "Professionnels",
+        "Pair aidants"
+      ],
+      "objectifs": [
+        "Comprendre l'autre et communiquer"
+      ],
+      "mode": "Collectif",
+      "matériel_catégorie": "Matériel de base",
+      "étape_code": "B1",
+      "étape_nom": "Analyse/Compréhension"
+    },
+    {
+      "nom": "Atelier collectif « Co-création d'un atelier thématique avec les jeunes »",
+      "source": "Lit uP",
+      "source_url": null,
+      "intention": "Mettre les jeunes en posture de consultant·es pour co-créer (ou améliorer) un atelier destiné à d'autres jeunes. Leur expérience devient la matière première de la conception.",
+      "pourquoi": "L'outil active « Utilité », « Liberté » et « Action » : les jeunes ne sont pas des destinataires de contenus, ils·elles en deviennent les architectes. C'est l'incarnation du pouvoir d'agir.",
+      "matériel": [
+        {
+          "item": "Paperboard"
+        },
+        {
+          "item": "Post-its (beaucoup)"
+        },
+        {
+          "item": "Feutres"
+        },
+        {
+          "item": "Gommettes pour les votes"
+        },
+        {
+          "item": "10 fiches-questions basées sur les clés d'engagement",
+          "lien": "https://www.notion.so/1b920357b3458029b03fc8d3a92fd6e7",
+          "lien_label": "Télécharger les fiches"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Co-créer un projet avec les jeunes",
+          "détail": "Faire sortir du rôle de bénéficiaire et entrer dans celui de concepteur·ice."
+        },
+        {
+          "titre": "Générer des idées créatives",
+          "détail": "Produire des pistes concrètes nourries par le vécu direct des jeunes."
+        },
+        {
+          "titre": "Faire des choix collectifs",
+          "détail": "Prioriser ensemble les idées à retenir et à mettre en œuvre."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Introduction",
+          "durée": "10 min",
+          "actions": [
+            "Poser le cadre : « Vous êtes aujourd'hui des <strong>consultant·es</strong> pour une personne formatrice (le <em>client</em>) qui veut créer ou améliorer un atelier. »",
+            "Rassurer sur la légitimité : leur vécu est la matière première.",
+            "Si le groupe ne se connaît pas : commencer par un <strong>débat mouvant</strong> rapide avec des affirmations sur la motivation en atelier (« Je préfère travailler seul·e », « Les ateliers où on bouge sont plus motivants », etc.).",
+            "Débrief rapide du débat : <em>« Qu'avez-vous appris sur ce qui vous motive ? »</em>"
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Retour sur les expériences et attentes",
+          "durée": "10 min",
+          "actions": [
+            "Questions ouvertes : « Avez-vous déjà participé à ce genre d'atelier ? Comment ça s'est passé ? Points + et points − ? »",
+            "« Qu'est-ce que vous espérez apprendre, produire ou savoir faire en sortant ? »",
+            "Recueil via post-its ou à l'oral, au choix."
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Formulation de la problématique par le client",
+          "durée": "5 min",
+          "actions": [
+            "Le·a client·e (la personne formatrice) reformule son besoin en commençant par <strong>« Comment pourrions-nous… »</strong>",
+            "Exemple : « Comment pourrions-nous concevoir un atelier de 2h sur le CV qui soit engageant et motivant ? »"
+          ]
+        },
+        {
+          "étape": 4,
+          "titre": "Idéation libre",
+          "durée": "10 min",
+          "actions": [
+            "Distribuer des post-its.",
+            "<strong>Consigne :</strong> minimum 4 idées par personne, 1 idée par post-it.",
+            "Toutes les idées sont bonnes, même farfelues.",
+            "Coller les post-its sur un paperboard."
+          ]
+        },
+        {
+          "étape": 5,
+          "titre": "Idéation contrainte via les 10 clés",
+          "durée": "20 min",
+          "actions": [
+            "Disposer les fiches-questions (1 par clé d'engagement).",
+            "Sélectionner 4-5 questions pertinentes ou les répartir entre sous-équipes.",
+            "<strong>Pour chaque question :</strong> produire un maximum d'idées en 1 post-it = 1 idée.",
+            "Exemples de questions : « Comment faire en sorte que l'atelier ait vraiment du sens ? », « Comment introduire du fun ? », « Comment permettre à chacun·e de se sentir en sécurité ? »",
+            "<em>Astuce :</em> commencer les réponses par « Et si… » stimule la créativité."
+          ]
+        },
+        {
+          "étape": 6,
+          "titre": "Sélection des meilleures idées",
+          "durée": "10 min",
+          "actions": [
+            "La personne facilitatrice regroupe les post-its similaires.",
+            "Organiser un <strong>vote papillon</strong> (fiche dédiée) : 8 gommettes par jeune, à distribuer librement sur les idées.",
+            "Possibilité de mettre 2 gommettes sur une seule idée si très convaincant.",
+            "Compter et dégager le top 3-5."
+          ]
+        },
+        {
+          "étape": 7,
+          "titre": "Conclusions du client",
+          "durée": "5 min",
+          "actions": [
+            "Le·a client·e remercie les consultant·es.",
+            "Annonce ce qu'il·elle va concrètement mettre en place.",
+            "<strong>Engagement fort :</strong> envoyer plus tard une preuve de la mise en œuvre des idées retenues."
+          ]
+        },
+        {
+          "étape": 8,
+          "titre": "Débriefing",
+          "durée": "10 min",
+          "actions": [
+            "« Qu'avez-vous ressenti pendant l'atelier ? »",
+            "« Qu'avez-vous appris sur vous-mêmes ou sur les autres ? »",
+            "« Qu'avez-vous apprécié ? »",
+            "« Comment cet atelier peut-il être amélioré ? »"
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "L'engagement du « client » est la clé : s'il·elle ne met rien en œuvre ensuite, l'atelier perd son sens.",
+        "Valorisez chaque idée, même celles qui semblent irréalistes — elles nourrissent la suite.",
+        "Si le groupe est grand, créez des sous-équipes pour l'étape 5 et faites ensuite partager chaque équipe.",
+        "Prévoyez un retour aux jeunes 1-2 mois plus tard pour montrer ce qui a été fait avec leurs idées."
+      ],
+      "variantes": [
+        "Version courte (1h) : condenser les étapes 1-2-3 en 20 minutes.",
+        "Version thématique : cibler la problématique en amont pour être plus opérationnel.",
+        "Version en ligne : utiliser Miro ou équivalent pour les post-its collaboratifs à distance."
+      ],
+      "id": "atelier-collectif-co-creation-dun-atelier-thematique-avec-les-jeunes",
+      "étape_principale": "Toutes les étapes",
+      "étapes": [
+        "Toutes les étapes"
+      ],
+      "durée": "1h30",
+      "format": "Collectif",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": null,
+        "âge_max": null
+      },
+      "age": "",
+      "matériel_résumé": "Matériel de base",
+      "clés": [
+        "Utilité (Rapport aux autres)",
+        "Liberté (rapport à soi)",
+        "Action (rapport à soi)"
+      ],
+      "public_cible": [
+        "Professionnels"
+      ],
+      "objectifs": [
+        "Faire des choix collectifs",
+        "Générer des idées créatives",
+        "Créer un projet"
+      ],
+      "mode": "Collectif",
+      "matériel_catégorie": "Matériel de base",
+      "étape_code": "∞",
+      "étape_nom": "Toutes les étapes"
+    },
+    {
+      "nom": "Questionnaire post-atelier collectif",
+      "source": "Lit uP",
+      "source_url": null,
+      "intention": "Prendre 5 minutes à la fin d'une séance pour recueillir un feedback structuré. Court, anonyme, régulier — c'est le b.a.-ba de l'amélioration continue.",
+      "pourquoi": "L'outil active « Considération » : on demande leur avis aux jeunes. Même si c'est rapide, le simple fait de le faire structurement installe une culture de l'écoute.",
+      "matériel": [
+        {
+          "item": "Questionnaires imprimés (un par personne) OU formulaire en ligne (type Google Forms) OU outil Mentimeter"
+        },
+        {
+          "item": "Stylos"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Évaluer un atelier/programme",
+          "détail": "Obtenir un feedback rapide et régulier pour ajuster les prochaines séances."
+        },
+        {
+          "titre": "Installer une culture de l'amélioration",
+          "détail": "Signifier par la répétition que l'avis des jeunes compte et change les choses."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Annoncer le cadre",
+          "durée": "1 min",
+          "actions": [
+            "« Pour améliorer nos prochaines séances, j'ai besoin de votre avis. »",
+            "Préciser : anonyme, 5 minutes, pas de bonne ou mauvaise réponse."
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Remplissage individuel",
+          "durée": "3 min",
+          "actions": [
+            "Distribuer les questionnaires.",
+            "Questions suggérées :",
+            "• <strong>Qu'avez-vous apprécié ?</strong>",
+            "• <strong>Qu'est-ce qui vous a moins plu ?</strong>",
+            "• <strong>Qu'avez-vous appris ou découvert ?</strong>",
+            "• <strong>Note de satisfaction / 10</strong>",
+            "• <strong>Une idée pour la prochaine séance ?</strong>"
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Récupération",
+          "durée": "1 min",
+          "actions": [
+            "Les jeunes déposent les feuilles dans une boîte (pour l'anonymat).",
+            "Remercier pour l'engagement.",
+            "<strong>Engagement :</strong> revenir à la prochaine séance avec 1-2 points retenus."
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "<strong>Restez court :</strong> 5 questions max, sinon les jeunes décrochent.",
+        "Anonymisez vraiment : si vous reconnaissez les écritures, utilisez un outil en ligne.",
+        "<strong>Montrez que ça change quelque chose :</strong> revenez à la séance d'après avec « La dernière fois vous m'aviez dit X, on va essayer Y aujourd'hui ».",
+        "Conservez les réponses sur la durée pour mesurer l'évolution."
+      ],
+      "variantes": [
+        "Version « 1 mot » : juste demander 1 mot pour qualifier la séance, en tour de table.",
+        "Version post-it : 3 post-its par personne (1 positif, 1 négatif, 1 amélioration) sur un paperboard.",
+        "Version numérique : Mentimeter ou Kahoot pour un rendu visuel immédiat.",
+        "Version radar : utiliser directement le baromètre d'engagement Lit uP."
+      ],
+      "id": "questionnaire-post-atelier-collectif",
+      "étape_principale": "C. Débriefing",
+      "étapes": [
+        "C. Débriefing"
+      ],
+      "durée": "5 minutes",
+      "format": "Collectif",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": null,
+        "âge_max": null
+      },
+      "age": "",
+      "matériel_résumé": "Matériel de base",
+      "clés": [
+        "Considération (rapport aux autres)"
+      ],
+      "public_cible": [
+        "Professionnels"
+      ],
+      "objectifs": [
+        "Evaluer un outil/atelier/programme"
+      ],
+      "mode": "Collectif",
+      "matériel_catégorie": "Matériel de base",
+      "étape_code": "C",
+      "étape_nom": "Débriefing"
+    },
+    {
+      "nom": "Jeu des aspirations (ou du Matching)",
+      "source": "Inconnue — outil de self-awareness adapté par Lit uP",
+      "source_url": null,
+      "intention": "Aider les jeunes à identifier leurs aspirations profondes en les formulant devant les autres. Découvrir qu'on n'est pas seul·e avec ses rêves, et que certains s'emboîtent avec ceux des autres.",
+      "pourquoi": "L'outil active la clé « Sens » : dire à voix haute ce qu'on veut vraiment, c'est déjà commencer à le construire. Et l'entendre chez d'autres, c'est se sentir moins seul·e.",
+      "matériel": [
+        {
+          "item": "Cartes aspirations ou valeurs (type Values Cards, cartes auto-éditées, ou liste imprimée)"
+        },
+        {
+          "item": "Post-its"
+        },
+        {
+          "item": "Feutres"
+        },
+        {
+          "item": "Optionnel : une liste imprimée de 30-40 aspirations pour inspirer"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Développer la connaissance de soi",
+          "détail": "Mettre des mots concrets sur ce qui nous anime en profondeur."
+        },
+        {
+          "titre": "Créer des connexions",
+          "détail": "Identifier ceux qui partagent des aspirations similaires ou complémentaires."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Introduction",
+          "durée": "5 min",
+          "actions": [
+            "Expliquer la différence entre un objectif (ce que je vise à court terme) et une aspiration (ce qui m'anime profondément, comme une boussole).",
+            "Rassurer : pas de bonne ou mauvaise aspiration."
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Sélection individuelle",
+          "durée": "15 min",
+          "actions": [
+            "Disposer les cartes aspirations en éventail ou les distribuer.",
+            "Chacun·e choisit ses 3 à 5 aspirations principales.",
+            "Écrire sur des post-its : pour chaque aspiration choisie, <strong>un exemple concret</strong> de ce que ça représente pour soi."
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Matching",
+          "durée": "15 min",
+          "actions": [
+            "Chacun·e présente ses aspirations en 1-2 minutes.",
+            "Pendant qu'une personne parle, les autres écoutent et peuvent <strong>signaler</strong> quand une aspiration résonne chez eux·elles.",
+            "Noter visuellement les liens (dessiner une carte mentale, ou poser les aspirations communes au centre)."
+          ]
+        },
+        {
+          "étape": 4,
+          "titre": "Débriefing",
+          "durée": "5 min",
+          "actions": [
+            "« Qu'est-ce qui vous a surpris·e dans les aspirations des autres ? »",
+            "« Y a-t-il des aspirations que vous partagez et qui pourraient nourrir des projets collectifs ? »",
+            "Noter les pistes qui émergent pour la suite."
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "Si certain·es ont du mal à choisir, proposer une liste d'exemples (créativité, transmission, autonomie, justice, aventure, famille…).",
+        "Évitez de hiérarchiser les aspirations — elles sont toutes légitimes.",
+        "Si un·e jeune exprime une aspiration très intime, respectez-la sans insister pour qu'il·elle en dise plus.",
+        "Conservez les aspirations identifiées : elles seront utiles pour l'accompagnement individuel."
+      ],
+      "variantes": [
+        "Version sans cartes : simple tour de table sur « Qu'est-ce qui me fait vibrer ? »",
+        "Version visuelle : collages de magazines pour exprimer ses aspirations.",
+        "Version projet : une fois les aspirations partagées, chercher 1 projet commun qui permettrait d'honorer plusieurs aspirations à la fois."
+      ],
+      "id": "jeu-des-aspirations-ou-du-matching",
+      "étape_principale": "Autres",
+      "étapes": [
+        "Autres"
+      ],
+      "durée": "40 minutes",
+      "format": "Collectif",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": null,
+        "âge_max": null
+      },
+      "age": "",
+      "matériel_résumé": "Achats préalables",
+      "clés": [
+        "Sens (rapport à soi)"
+      ],
+      "public_cible": [
+        "Professionnels"
+      ],
+      "objectifs": [
+        "Développer la connaissance de soi"
+      ],
+      "mode": "Collectif",
+      "matériel_catégorie": "Achats préalables",
+      "étape_code": "○",
+      "étape_nom": "Autres"
+    },
+    {
+      "nom": "Jeu de cartes des compétences",
+      "source": "Approche des compétences transférables (AFPA, CECRL, inspiration multiple)",
+      "source_url": null,
+      "intention": "Rendre visibles et nommables les compétences acquises par les jeunes — notamment celles qu'ils·elles ne perçoivent pas eux·elles-mêmes. Transformer de l'expérience en capital personnel.",
+      "pourquoi": "L'outil active la clé « Progression » : sans mise en mots, les apprentissages restent invisibles et le·a jeune se dit « je n'ai rien appris ». Avec les cartes, on rend concret ce qui était diffus.",
+      "matériel": [
+        {
+          "item": "Jeu de cartes-compétences (une carte = une compétence : communication, travail en équipe, créativité, résolution de problèmes…). Environ 30-50 cartes."
+        },
+        {
+          "item": "Feutres et feuilles pour prendre des notes"
+        },
+        {
+          "item": "Optionnel : un support pour garder trace (fiche compétences, portfolio, LinkedIn)"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Développer la connaissance de soi",
+          "détail": "Identifier et nommer les compétences acquises, souvent sous-estimées par le·a jeune lui·elle-même."
+        },
+        {
+          "titre": "Préparer la valorisation extérieure",
+          "détail": "Donner un vocabulaire à réutiliser en entretien, CV, candidature."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Introduction",
+          "durée": "3 min",
+          "actions": [
+            "Expliquer le concept de compétence : ce que je sais faire, qui peut être transféré à d'autres contextes.",
+            "Distinguer compétence de diplôme ou de poste occupé."
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Tri individuel",
+          "durée": "5 min",
+          "actions": [
+            "Distribuer ou présenter les cartes.",
+            "Chacun·e fait 3 piles : <strong>« Je maîtrise »</strong>, <strong>« J'ai des bases »</strong>, <strong>« Pas encore acquise »</strong>.",
+            "Encourager à s'appuyer sur des situations concrètes : « Quand l'ai-je utilisée ? »"
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Identification des 3-5 principales",
+          "durée": "5 min",
+          "actions": [
+            "Dans la pile « Je maîtrise », choisir les 3 à 5 plus fortes.",
+            "Pour chacune : écrire 1-2 exemples de situations vécues qui l'illustrent."
+          ]
+        },
+        {
+          "étape": 4,
+          "titre": "Partage (optionnel)",
+          "durée": "2 min par pers.",
+          "actions": [
+            "En binôme ou en petit groupe : chacun·e présente ses 3-5 compétences.",
+            "Les autres peuvent compléter : « Moi je t'ai vu·e aussi être très bon·ne en… »",
+            "Repérer les effets de miroir et de valorisation."
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "Encouragez à oser : beaucoup de jeunes sous-estiment leurs compétences.",
+        "Utilisez des situations <strong>hors école</strong> aussi : sport, famille, jobs d'été, engagement associatif.",
+        "Si possible, <strong>ajoutez un effet miroir</strong> : les autres peuvent confirmer ou proposer des compétences qu'ils voient chez la personne.",
+        "Prévoyez un support pour garder la trace (fiche à remplir, photo des cartes choisies)."
+      ],
+      "variantes": [
+        "Version collective : après le travail individuel, construire un « mur des compétences du groupe » avec toutes les cartes « Je maîtrise » agrégées.",
+        "Version longitudinale : refaire l'exercice 6 mois plus tard pour voir quelles cartes ont migré vers « Je maîtrise ».",
+        "Version « regard des autres » : commencer par laisser les autres nous attribuer des compétences avant qu'on s'auto-évalue."
+      ],
+      "id": "jeu-de-cartes-des-competences",
+      "étape_principale": "C. Débriefing",
+      "étapes": [
+        "C. Débriefing"
+      ],
+      "durée": "15 min",
+      "format": "Individuel ou collectif",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": null,
+        "âge_max": null
+      },
+      "age": "",
+      "matériel_résumé": "Achats préalables",
+      "clés": [
+        "Progression (rapport à soi)"
+      ],
+      "public_cible": [
+        "Professionnels",
+        "Pair aidants"
+      ],
+      "objectifs": [
+        "Développer la connaissance de soi"
+      ],
+      "mode": "Individuel ou collectif",
+      "matériel_catégorie": "Achats préalables",
+      "étape_code": "C",
+      "étape_nom": "Débriefing"
+    },
+    {
+      "nom": "Charte d'équipe",
+      "source": "Pratique d'intelligence collective — outil classique de démarrage de collectifs",
+      "source_url": null,
+      "intention": "Construire collectivement les règles du vivre-ensemble du groupe. Non pas un règlement imposé, mais des engagements partagés, choisis et portés par le collectif.",
+      "pourquoi": "L'outil active les clés « Sécurité » et « Appartenance » : un cadre posé collectivement est un cadre respecté. Chacun·e s'y retrouve parce qu'il·elle a contribué à le construire.",
+      "matériel": [
+        {
+          "item": "Grande feuille ou paperboard"
+        },
+        {
+          "item": "Post-its"
+        },
+        {
+          "item": "Feutres"
+        },
+        {
+          "item": "Optionnel : une proposition de charte-type pour démarrer si le groupe manque d'idées"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Créer un collectif",
+          "détail": "Produire un référentiel commun qui sert de boussole dans les moments de tension."
+        },
+        {
+          "titre": "Responsabiliser chacun·e",
+          "détail": "Faire passer du « c'est interdit » au « on s'est engagé·es à »."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Introduction",
+          "durée": "5 min",
+          "actions": [
+            "Expliquer l'objectif : « On va écrire ensemble les règles qu'on veut pour bien travailler. »",
+            "Poser la différence entre règlement (imposé) et charte (co-construite)."
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Brainstorming individuel",
+          "durée": "5 min",
+          "actions": [
+            "Chacun·e écrit sur 2-3 post-its : <strong>« Pour que je me sente bien dans ce groupe, il faut que… »</strong>",
+            "Toutes les formulations sont acceptées."
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Mise en commun",
+          "durée": "10 min",
+          "actions": [
+            "Chacun·e colle ses post-its en les expliquant.",
+            "L'animateur·ice regroupe par thème (écoute, respect, prise de parole, temps…)."
+          ]
+        },
+        {
+          "étape": 4,
+          "titre": "Reformulation en engagements",
+          "durée": "15 min",
+          "actions": [
+            "Pour chaque thème, le groupe formule <strong>1 engagement concret</strong>.",
+            "Préférer les formulations positives : <em>« On écoute celui·celle qui parle »</em> plutôt que <em>« On ne coupe pas la parole »</em>.",
+            "Vérifier que chacun·e est d'accord."
+          ]
+        },
+        {
+          "étape": 5,
+          "titre": "Signature symbolique",
+          "durée": "5 min",
+          "actions": [
+            "Écrire la charte au propre sur une grande feuille.",
+            "Chacun·e signe (ou colle son prénom).",
+            "Afficher la charte de manière visible dans l'espace de travail."
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "<strong>Gardez la charte courte</strong> : 5 à 7 engagements maximum, sinon personne ne s'en souvient.",
+        "Revenez dessus en cas de tension : « Souvenons-nous, on s'était engagé·es à… »",
+        "Relisez-la en début de chaque nouvelle séance pour les 2-3 premières fois.",
+        "Elle peut évoluer : rouvrir la charte 1-2 fois par an pour la faire vivre."
+      ],
+      "variantes": [
+        "Version express (20 min) : limiter à 3 engagements clés pour un démarrage rapide.",
+        "Version visuelle : dessiner ou illustrer chaque engagement.",
+        "Version « contrat » : chacun·e signe individuellement un exemplaire à garder.",
+        "Version évolutive : intégrer des « indicateurs » pour mesurer si la charte est respectée."
+      ],
+      "id": "charte-dequipe",
+      "étape_principale": "",
+      "étapes": [],
+      "durée": "",
+      "format": "",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": null,
+        "âge_max": null
+      },
+      "age": "",
+      "matériel_résumé": "",
+      "clés": [],
+      "public_cible": [],
+      "objectifs": [],
+      "mode": "",
+      "matériel_catégorie": ""
+    },
+    {
+      "nom": "Utiliser des post-it pour libérer la parole",
+      "source": "Pratique classique de facilitation",
+      "source_url": null,
+      "intention": "Donner la parole à ceux qui ne la prennent pas, neutraliser les effets de groupe, permettre d'exprimer des choses qu'on ne dirait pas à voix haute. Le post-it est un égalisateur formidable.",
+      "pourquoi": "L'outil active les clés « Liberté » et « Sécurité » : chacun·e peut s'exprimer à son rythme, sans être interrompu·e, sans avoir à affronter le regard direct des autres.",
+      "matériel": [
+        {
+          "item": "Post-its (idéalement 2-3 couleurs)"
+        },
+        {
+          "item": "Feutres ou stylos"
+        },
+        {
+          "item": "Un support pour afficher (paperboard, mur, tableau)"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Libérer la parole",
+          "détail": "Permettre à chacun·e d'exprimer ses idées sans les freins habituels du collectif."
+        },
+        {
+          "titre": "Rendre visible la diversité",
+          "détail": "Faire apparaître toutes les voix, y compris les minoritaires."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Annoncer la question",
+          "durée": "2 min",
+          "actions": [
+            "Formuler une question claire et unique.",
+            "Exemples : <em>« Qu'est-ce qui vous empêche de bien dormir ? »</em>, <em>« Qu'est-ce qui fonctionne dans notre collectif ? »</em>",
+            "Règle : <strong>1 idée par post-it</strong>, mots-clés ou phrases courtes."
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Production silencieuse",
+          "durée": "5 à 10 min",
+          "actions": [
+            "Chacun·e écrit en silence.",
+            "Viser minimum 3 post-its par personne.",
+            "Le silence est important : il protège l'introspection."
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Collage et clustering",
+          "durée": "10 min",
+          "actions": [
+            "Chacun·e vient coller ses post-its en lisant à voix haute, sans commenter.",
+            "L'animateur·ice regroupe les post-its similaires au fur et à mesure.",
+            "Nommer chaque cluster avec le groupe."
+          ]
+        },
+        {
+          "étape": 4,
+          "titre": "Priorisation ou débat",
+          "durée": "10 min",
+          "actions": [
+            "Identifier les idées les plus récurrentes.",
+            "Ouvrir la discussion sur les clusters qui méritent d'être approfondis.",
+            "Si besoin de décider, passer à un vote papillon (voir fiche dédiée)."
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "<strong>Respectez le silence</strong> pendant la production — c'est la garantie que chacun·e peut penser.",
+        "Lisez chaque post-it sans juger, même ceux qui semblent provocants ou hors sujet.",
+        "Regroupez à la volée mais restez humble : demandez au groupe si le clustering leur parle.",
+        "Préservez l'anonymat des post-its : pas la peine de savoir qui a écrit quoi."
+      ],
+      "variantes": [
+        "Version « 2 couleurs » : une couleur pour ce qui va / une couleur pour ce qui ne va pas.",
+        "Version « post-it dans le dos » : voir la fiche dédiée (feedback entre pairs).",
+        "Version numérique : Miro, Mural, Klaxoon — utile en visio ou pour garder une trace.",
+        "Version longitudinale : archiver les clusters pour voir l'évolution dans le temps."
+      ],
+      "id": "utiliser-des-post-it-pour-liberer-la-parole",
+      "étape_principale": "",
+      "étapes": [],
+      "durée": "",
+      "format": "",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": null,
+        "âge_max": null
+      },
+      "age": "",
+      "matériel_résumé": "Matériel de base",
+      "clés": [],
+      "public_cible": [],
+      "objectifs": [
+        "Libérer la parole"
+      ],
+      "mode": "",
+      "matériel_catégorie": "Matériel de base"
+    },
+    {
+      "nom": "Activité témoignage sur expérience",
+      "source": "Pratique Lit uP",
+      "source_url": null,
+      "intention": "Donner la parole à un·e pair aidant·e ou à un·e jeune qui partage son vécu. Faire entrer le réel dans la séance, pour incarner ce qui est abordé.",
+      "pourquoi": "L'outil active « Appartenance » : entendre quelqu'un qui a traversé des choses similaires, c'est se sentir moins seul·e. Le témoignage a une puissance que le discours théorique n'atteindra jamais.",
+      "matériel": [
+        {
+          "item": "Un·e intervenant·e témoin (pair aidant·e, ancien·ne bénéficiaire, professionnel·le ayant un parcours singulier)"
+        },
+        {
+          "item": "Un espace d'écoute bienveillant"
+        },
+        {
+          "item": "Optionnel : support visuel (photos, objet symbolique) amené par le·a témoin"
+        },
+        {
+          "item": "De quoi prendre des notes pour les participant·es"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Créer un collectif",
+          "détail": "Fédérer autour d'une expérience humaine partagée et authentique."
+        },
+        {
+          "titre": "Développer la connaissance de soi",
+          "détail": "Offrir un miroir qui peut aider les jeunes à reconnaître leur propre vécu."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Préparation avec le·a témoin",
+          "durée": "30 min (en amont)",
+          "actions": [
+            "Rencontrer le·a témoin en amont pour cadrer l'intervention.",
+            "Identifier ensemble 3 à 5 messages-clés à transmettre.",
+            "Décider du format (monologue, questions-réponses, échange libre).",
+            "Préciser ce qu'il·elle ne souhaite pas aborder."
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Introduction en séance",
+          "durée": "5 min",
+          "actions": [
+            "Présenter le·a témoin avec quelques mots de contexte.",
+            "Poser le cadre : écoute, respect, pas de jugement.",
+            "Expliquer qu'un temps d'échange suivra."
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Témoignage",
+          "durée": "20 à 30 min",
+          "actions": [
+            "Laisser le·a témoin raconter, sans interrompre.",
+            "Si le format le permet, relancer par 1-2 questions de transition.",
+            "Veiller à la gestion du temps — un témoignage trop long épuise l'attention."
+          ]
+        },
+        {
+          "étape": 4,
+          "titre": "Échange avec le groupe",
+          "durée": "20 min",
+          "actions": [
+            "Ouvrir aux questions, en alternance : une question de jeune / une réponse.",
+            "Si les questions ne viennent pas, relancer par « Qu'est-ce qui vous a marqué·e ? »",
+            "Remercier chaleureusement le·a témoin."
+          ]
+        },
+        {
+          "étape": 5,
+          "titre": "Débriefing",
+          "durée": "10 min",
+          "actions": [
+            "Après le départ du·de la témoin : « Qu'est-ce que vous retenez ? »",
+            "« Qu'est-ce que ça vous a fait ? »",
+            "« Est-ce que ça résonne avec votre propre vécu ? »",
+            "Ne pas forcer la parole — laisser le silence exister."
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "La préparation avec le·a témoin est <strong>essentielle</strong> : un témoignage mal cadré peut être contre-productif.",
+        "Soyez attentif·ve aux réactions du groupe : un témoignage peut raviver des émotions fortes.",
+        "Prévoyez un temps de décompression après : pause, activité plus légère.",
+        "Remerciez toujours publiquement le·a témoin — son engagement doit être reconnu."
+      ],
+      "variantes": [
+        "Version « 2 voix » : deux témoins aux parcours différents, dialogue croisé.",
+        "Version vidéo : témoignage filmé et visionné en groupe, si impossible en présentiel.",
+        "Version inversée : les jeunes préparent des questions en amont et mènent l'interview."
+      ],
+      "id": "activite-temoignage-sur-experience",
+      "étape_principale": "",
+      "étapes": [],
+      "durée": "",
+      "format": "",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": null,
+        "âge_max": null
+      },
+      "age": "",
+      "matériel_résumé": "Matériel de base",
+      "clés": [],
+      "public_cible": [],
+      "objectifs": [],
+      "mode": "",
+      "matériel_catégorie": "Matériel de base"
+    },
+    {
+      "nom": "Trouver une idée en groupe",
+      "source": "Pratique de brainstorming classique",
+      "source_url": null,
+      "intention": "Produire rapidement un grand nombre d'idées en équipe, sans jugement. Faire émerger du neuf en s'appuyant sur la dynamique collective.",
+      "pourquoi": "L'outil active « Plaisir » et « Action » : quand la contrainte de temps est là et qu'on s'autorise à tout dire, l'imagination circule. Et le groupe produit souvent plus qu'on ne l'attend.",
+      "matériel": [
+        {
+          "item": "Post-its (beaucoup)"
+        },
+        {
+          "item": "Feutres"
+        },
+        {
+          "item": "Un paperboard ou un mur"
+        },
+        {
+          "item": "Un timer"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Générer des idées créatives",
+          "détail": "Produire rapidement une matière première abondante pour un projet, un problème ou un défi."
+        },
+        {
+          "titre": "Faire vivre l'intelligence collective",
+          "détail": "Montrer concrètement que le groupe pense mieux que chaque individu seul."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Formuler la question",
+          "durée": "5 min",
+          "actions": [
+            "Poser la question de départ au tableau, sous la forme <strong>« Comment pourrions-nous… ? »</strong>",
+            "Préciser le cadre : quel résultat attendu, quelles contraintes.",
+            "Rappeler les règles : toute idée est bonne, on ne juge pas, on rebondit sur les idées des autres."
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Production individuelle",
+          "durée": "5 min",
+          "actions": [
+            "Chacun·e écrit en silence sur des post-its : 1 idée par post-it.",
+            "Viser minimum 5 post-its par personne.",
+            "Le silence protège l'imagination individuelle avant la mise en commun."
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Mise en commun rapide",
+          "durée": "10 min",
+          "actions": [
+            "Chacun·e présente ses post-its en les collant, sans commenter.",
+            "Les autres peuvent rebondir : « Ça me fait penser à… », nouveau post-it.",
+            "Pas de débat à ce stade."
+          ]
+        },
+        {
+          "étape": 4,
+          "titre": "Clustering et convergence",
+          "durée": "10 min",
+          "actions": [
+            "Regrouper les idées similaires.",
+            "Nommer chaque cluster.",
+            "Identifier les 3-5 pistes les plus prometteuses."
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "<strong>Limitez le jugement</strong> pendant la production : pas de « oui mais », pas de « ça ne marchera pas ».",
+        "Valorisez les idées bizarres — elles contiennent souvent les vraies nouveautés.",
+        "Si le groupe sèche, utilisez l'outil <strong>Et si ?</strong> pour relancer.",
+        "Gardez une trace photo ou numérique — les idées non retenues aujourd'hui pourront servir plus tard."
+      ],
+      "variantes": [
+        "Version « brainwriting » : chacun·e note ses idées puis fait tourner la feuille pour que les autres rebondissent.",
+        "Version « 635 » : 6 personnes, 3 idées, 5 minutes → on change de feuille toutes les 5 minutes.",
+        "Version Crazy 8 : 8 idées en 8 minutes (voir fiche dédiée)."
+      ],
+      "id": "trouver-une-idee-en-groupe",
+      "étape_principale": "",
+      "étapes": [],
+      "durée": "",
+      "format": "",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": null,
+        "âge_max": null
+      },
+      "age": "",
+      "matériel_résumé": "Matériel de base",
+      "clés": [],
+      "public_cible": [],
+      "objectifs": [],
+      "mode": "",
+      "matériel_catégorie": "Matériel de base"
+    },
+    {
+      "nom": "Post-it dans le dos",
+      "source": "Outil classique de feedback entre pairs",
+      "source_url": null,
+      "intention": "Permettre à chacun·e de recevoir un retour positif des autres membres du groupe, sans savoir qui a écrit quoi. Vivre une expérience concrète de reconnaissance mutuelle.",
+      "pourquoi": "L'outil active « Considération » et « Sécurité » : recevoir un post-it disant « tu es drôle » ou « je compte sur toi », c'est puissant. L'anonymat libère les compliments.",
+      "matériel": [
+        {
+          "item": "Post-its (2-3 par participant·e × nombre de participant·es)"
+        },
+        {
+          "item": "Feutres ou stylos"
+        },
+        {
+          "item": "Optionnel : scotch papier pour coller dans le dos"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Créer un collectif",
+          "détail": "Installer une culture de la reconnaissance mutuelle dans le groupe."
+        },
+        {
+          "titre": "Développer la confiance en soi",
+          "détail": "Permettre à chacun·e de se voir valorisé·e par les autres, souvent plus que par soi-même."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Introduction",
+          "durée": "3 min",
+          "actions": [
+            "Expliquer le principe : on va coller un post-it dans le dos de chaque personne, puis chacun·e va écrire dessus une chose positive sur cette personne.",
+            "<strong>Règle d'or :</strong> que des choses vraies et positives. Pas d'ironie, pas de moquerie.",
+            "Rassurer : l'anonymat est total."
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Installation des post-its",
+          "durée": "2 min",
+          "actions": [
+            "Chacun·e colle un post-it vierge dans son dos (ou se fait aider).",
+            "Optionnel : on peut coller 2-3 post-its par personne pour multiplier les retours."
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Circulation et écriture",
+          "durée": "10 à 15 min",
+          "actions": [
+            "Les participant·es circulent dans la salle.",
+            "Chacun·e écrit sur le dos des autres : une qualité, un mot, une reconnaissance.",
+            "Viser au moins 1 message sur chaque personne.",
+            "Prévoir assez de temps pour que chacun·e puisse écrire sur tout le monde."
+          ]
+        },
+        {
+          "étape": 4,
+          "titre": "Lecture individuelle",
+          "durée": "5 min",
+          "actions": [
+            "Chacun·e récupère son/ses post-its et lit en silence.",
+            "Laisser les émotions émerger."
+          ]
+        },
+        {
+          "étape": 5,
+          "titre": "Partage (optionnel)",
+          "durée": "10 min",
+          "actions": [
+            "Tour de table volontaire : « Qu'est-ce qui vous a touché·e ? »",
+            "Ne pas forcer la parole.",
+            "Chacun·e garde son post-it comme un petit trésor."
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "Ne faites pas cet atelier avec un groupe qui ne se connaît pas du tout : les messages resteraient génériques.",
+        "Vérifiez la qualité des post-its à la fin — si un message négatif glisse, retirez-le discrètement.",
+        "Participez vous-même : c'est aussi un geste de reconnaissance de votre part.",
+        "Respectez le temps de lecture silencieuse — c'est là que l'émotion s'installe."
+      ],
+      "variantes": [
+        "Version « qualités » : chacun·e reçoit des mots-qualités sur son dos.",
+        "Version « merci » : chacun·e écrit sur le dos des autres ce pour quoi il·elle le·la remercie.",
+        "Version « je te souhaite » : chacun·e écrit un vœu pour l'autre (pour l'avenir)."
+      ],
+      "id": "post-it-dans-le-dos",
+      "étape_principale": "",
+      "étapes": [],
+      "durée": "",
+      "format": "",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": null,
+        "âge_max": null
+      },
+      "age": "",
+      "matériel_résumé": "Matériel de base",
+      "clés": [],
+      "public_cible": [],
+      "objectifs": [],
+      "mode": "",
+      "matériel_catégorie": "Matériel de base"
+    },
+    {
+      "nom": "Entretien individuel « Se fixer des objectifs »",
+      "source": "Outil Lit uP inspiré des méthodes SMART et du coaching",
+      "source_url": null,
+      "intention": "Accompagner un·e jeune dans la définition d'objectifs qui lui appartiennent vraiment. Passer du « il faudrait que je… » à « je m'engage à… ».",
+      "pourquoi": "L'outil active « Sens » et « Progression » : un objectif choisi, clair et articulé devient un moteur. Sans cela, on navigue à vue et l'engagement s'étiole.",
+      "matériel": [
+        {
+          "item": "Feuille de travail « objectifs » (vierge, avec des zones pour écrire)"
+        },
+        {
+          "item": "Stylo"
+        },
+        {
+          "item": "Un espace calme"
+        },
+        {
+          "item": "Optionnel : la liste des 9 clés d'engagement pour faire le lien avec les aspirations"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Se fixer des objectifs",
+          "détail": "Formuler 1 à 3 objectifs concrets, atteignables, choisis par le·a jeune."
+        },
+        {
+          "titre": "Se projeter",
+          "détail": "Relier un objectif à une aspiration plus large pour qu'il prenne sens."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Accueil et cadrage",
+          "durée": "5 min",
+          "actions": [
+            "Accueillir chaleureusement.",
+            "« On va travailler ensemble à définir 1 à 3 objectifs que tu veux te donner. »",
+            "Rappeler : tu décides, moi j'accompagne."
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Exploration",
+          "durée": "20 min",
+          "actions": [
+            "« Qu'est-ce que tu aimerais voir bouger dans ta vie dans les 3 prochains mois ? »",
+            "Laisser parler, reformuler, relancer.",
+            "Distinguer les vœux (« j'aimerais être heureux·se ») des objectifs (« d'ici 3 mois, j'aurai fait X »).",
+            "Aider à creuser : « Ça ressemble à quoi concrètement ? »"
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Formulation SMART",
+          "durée": "20 min",
+          "actions": [
+            "Pour chaque objectif, vérifier ensemble qu'il est :",
+            "<strong>S</strong>pécifique (précis), <strong>M</strong>esurable (on saura si c'est atteint), <strong>A</strong>tteignable (réaliste), <strong>R</strong>éaliste (en cohérence avec la vie), <strong>T</strong>emporel (avec une échéance).",
+            "Écrire l'objectif reformulé sur la feuille.",
+            "Identifier 2-3 actions concrètes pour démarrer."
+          ]
+        },
+        {
+          "étape": 4,
+          "titre": "Anticipation des obstacles",
+          "durée": "10 min",
+          "actions": [
+            "« Qu'est-ce qui pourrait t'empêcher d'atteindre ça ? »",
+            "« Qu'est-ce qui t'aiderait ? Qui pourrait t'aider ? »",
+            "Noter les ressources et obstacles."
+          ]
+        },
+        {
+          "étape": 5,
+          "titre": "Engagement et clôture",
+          "durée": "5 min",
+          "actions": [
+            "« Sur une échelle de 1 à 10, à quel point tu crois vraiment à ces objectifs ? »",
+            "Si < 7 : ajuster, revoir à la baisse.",
+            "Fixer un rendez-vous de point d'étape.",
+            "Le·a jeune garde sa feuille."
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "Ne partez pas de VOS attentes — partez des siennes.",
+        "Un objectif qui vient de vous ne tiendra pas. Mieux vaut un objectif modeste mais sien.",
+        "Valorisez le courage de se fixer un objectif, quel qu'il soit.",
+        "Prévoyez un point d'étape formel — l'objectif sans suivi s'évapore."
+      ],
+      "variantes": [
+        "Version courte (30 min) : se concentrer sur 1 seul objectif.",
+        "Version collective : atelier de groupe où chacun·e formule ses objectifs en binôme.",
+        "Version visuelle : représenter l'objectif sous forme de carte mentale ou de collage."
+      ],
+      "id": "entretien-individuel-se-fixer-des-objectifs",
+      "étape_principale": "Toutes les étapes",
+      "étapes": [
+        "Toutes les étapes"
+      ],
+      "durée": "1h",
+      "format": "Individuel",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": null,
+        "âge_max": null
+      },
+      "age": "",
+      "matériel_résumé": "Matériel de base",
+      "clés": [
+        "Sens (rapport à soi)",
+        "Progression (rapport à soi)"
+      ],
+      "public_cible": [
+        "Professionnels"
+      ],
+      "objectifs": [
+        "Se fixer des objectifs"
+      ],
+      "mode": "Individuel",
+      "matériel_catégorie": "Matériel de base",
+      "étape_code": "∞",
+      "étape_nom": "Toutes les étapes"
+    },
+    {
+      "nom": "Co-développement",
+      "source": "Adrien Payette et Claude Champagne (Québec, années 1990)",
+      "source_url": "https://www.afcodev.com/",
+      "intention": "Aider un·e membre du groupe à avancer sur une problématique concrète, en s'appuyant sur l'intelligence collective des pairs. Chacun·e devient tour à tour client·e et consultant·e.",
+      "pourquoi": "L'outil active « Utilité », « Appartenance » et « Considération » : on se sent utile (on aide un·e autre), on appartient (le groupe se soude), on est considéré·e (son problème est pris au sérieux par les autres).",
+      "matériel": [
+        {
+          "item": "Un espace permettant d'être en cercle"
+        },
+        {
+          "item": "Paperboard ou tableau"
+        },
+        {
+          "item": "Post-its et feutres"
+        },
+        {
+          "item": "Un timer"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Résoudre un problème concret",
+          "détail": "Aider un·e membre du groupe à avancer sur une situation bloquée."
+        },
+        {
+          "titre": "Développer l'entraide",
+          "détail": "Installer une culture où chacun·e peut demander et offrir du soutien."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Choix du·de la client·e",
+          "durée": "5 min",
+          "actions": [
+            "Un·e membre du groupe propose une situation/problématique qu'il·elle souhaite travailler.",
+            "S'il y a plusieurs volontaires, le groupe choisit (ou on tire au sort).",
+            "Les autres prennent le rôle de consultant·es."
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Exposé de la situation",
+          "durée": "10 min",
+          "actions": [
+            "Le·a client·e présente sa situation : contexte, difficulté, ce qu'il·elle a déjà essayé.",
+            "Les consultant·es écoutent sans interrompre.",
+            "Prendre des notes sans juger."
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Questions de clarification",
+          "durée": "10 min",
+          "actions": [
+            "Les consultant·es posent des questions de <strong>compréhension uniquement</strong> (pas encore de conseils).",
+            "Objectif : être sûr·e d'avoir bien saisi la situation.",
+            "Le·a client·e répond."
+          ]
+        },
+        {
+          "étape": 4,
+          "titre": "Contrat",
+          "durée": "5 min",
+          "actions": [
+            "Le·a client·e formule sa demande précise : <em>« Ce sur quoi j'ai besoin d'aide, c'est… »</em>",
+            "Exemple : « J'ai besoin d'idées pour mobiliser mon équipe » / « J'ai besoin qu'on challenge ma décision ».",
+            "Le contrat cadre les consultations."
+          ]
+        },
+        {
+          "étape": 5,
+          "titre": "Consultation",
+          "durée": "15 min",
+          "actions": [
+            "Les consultant·es partagent leurs idées, impressions, suggestions.",
+            "Tous les avis sont valides.",
+            "Le·a client·e écoute, prend des notes, ne débat pas."
+          ]
+        },
+        {
+          "étape": 6,
+          "titre": "Synthèse et plan d'action",
+          "durée": "5 min",
+          "actions": [
+            "Le·a client·e formule ce qu'il·elle retient : 2-3 idées, 1 action à tester.",
+            "Les consultant·es partagent leur propre apprentissage."
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "Respectez strictement chaque étape — ne pas sauter des questions aux conseils.",
+        "Interdire le « moi aussi j'ai vécu ça » pendant la consultation : c'est du temps pris au·à la client·e.",
+        "Valorisez les apprentissages des consultant·es : ils·elles apprennent autant que le·a client·e.",
+        "Cet outil gagne à être répété : les 3e-4e sessions sont plus riches que la 1re."
+      ],
+      "variantes": [
+        "Version courte (30 min) : raccourcir chaque étape, adapter pour des situations simples.",
+        "Version « mini-codev » : en binôme, 10 min chacun comme client·e.",
+        "Version virtuelle : faisable en visio, avec les mêmes règles strictes."
+      ],
+      "id": "co-developpement",
+      "étape_principale": "Autres",
+      "étapes": [
+        "Autres"
+      ],
+      "durée": "50 minutes",
+      "format": "Collectif",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": null,
+        "âge_max": null
+      },
+      "age": "",
+      "matériel_résumé": "Matériel de base",
+      "clés": [
+        "Utilité (Rapport aux autres)",
+        "Appartenance (rapport aux autres)",
+        "Considération (rapport aux autres)"
+      ],
+      "public_cible": [
+        "Professionnels",
+        "Pair aidants"
+      ],
+      "objectifs": [
+        "Résoudre un problème"
+      ],
+      "mode": "Collectif",
+      "matériel_catégorie": "Matériel de base",
+      "étape_code": "○",
+      "étape_nom": "Autres"
+    },
+    {
+      "nom": "Entretien individuel « Identifier ses leviers de motivation »",
+      "source": "Lit uP — inspiré des 9 clés et de la théorie de l'autodétermination",
+      "source_url": null,
+      "intention": "Prendre le temps, en tête-à-tête, d'identifier ce qui met profondément le·a jeune en mouvement. Dépasser les motivations de surface pour toucher ce qui compte vraiment.",
+      "pourquoi": "L'outil active « Sens » : pour un·e jeune, reconnaître ses propres leviers de motivation, c'est commencer à prendre la main sur son parcours. Pour le pro, c'est un levier irremplaçable d'accompagnement.",
+      "matériel": [
+        {
+          "item": "Les 9 cartes-clés Lit uP"
+        },
+        {
+          "item": "Feuille et stylo"
+        },
+        {
+          "item": "Espace calme, confidentiel"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Développer la connaissance de soi",
+          "détail": "Aider le·a jeune à nommer ce qui l'anime en profondeur."
+        },
+        {
+          "titre": "Nourrir l'accompagnement personnalisé",
+          "détail": "Donner au pro un cadre précis pour adapter sa posture et ses propositions."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Accueil",
+          "durée": "5 min",
+          "actions": [
+            "Créer un cadre détendu et bienveillant.",
+            "« On va prendre du temps pour identifier ce qui te fait avancer. »",
+            "Rappeler la confidentialité."
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Récit d'un moment d'engagement",
+          "durée": "15 min",
+          "actions": [
+            "<strong>Question ouvrante :</strong> « Raconte-moi un moment où tu t'es senti·e vraiment engagé·e, à fond, heureux·se de ce que tu faisais. »",
+            "Laisser raconter librement.",
+            "Relancer par des « Qu'est-ce qui te plaisait ? », « Qu'est-ce qui te donnait de l'énergie ? »"
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Mise en miroir avec les clés",
+          "durée": "20 min",
+          "actions": [
+            "Disposer les 9 cartes-clés.",
+            "« Parmi ces 9 clés, lesquelles étaient présentes dans le moment que tu viens de raconter ? »",
+            "Approfondir chaque clé reconnue par le·a jeune.",
+            "Identifier les 3 clés les plus porteuses pour lui·elle."
+          ]
+        },
+        {
+          "étape": 4,
+          "titre": "Récit d'un moment de démotivation (optionnel)",
+          "durée": "10 min",
+          "actions": [
+            "À l'inverse : « Et un moment où tu t'es senti·e démoti·ve ? »",
+            "Identifier les clés qui manquaient.",
+            "Faire le lien : souvent, c'est l'absence d'une clé qui éteint."
+          ]
+        },
+        {
+          "étape": 5,
+          "titre": "Clôture",
+          "durée": "10 min",
+          "actions": [
+            "« Qu'est-ce que tu retiens ? »",
+            "« Comment on peut utiliser ça dans ton parcours ? »",
+            "Noter les 3 clés principales — elles serviront de boussole."
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "Ne partez pas de questions abstraites (« Qu'est-ce qui te motive ? ») — partez d'un <strong>moment vécu</strong>.",
+        "Respectez le rythme : certains jeunes ont besoin de temps pour trouver leurs mots.",
+        "Reformulez sans interpréter — laissez le·a jeune valider ou corriger.",
+        "Concluez sur une action concrète pour que l'entretien produise un effet."
+      ],
+      "variantes": [
+        "Version courte (30 min) : juste le récit + mise en miroir.",
+        "Version longitudinale : refaire l'exercice 6 mois plus tard pour voir l'évolution.",
+        "Version avec les parents : si approprié, inclure un tiers aimant pour enrichir les observations."
+      ],
+      "id": "entretien-individuel-identifier-ses-leviers-de-motivation",
+      "étape_principale": "Autres",
+      "étapes": [
+        "Autres"
+      ],
+      "durée": "30 minutes à 1h",
+      "format": "Individuel",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": null,
+        "âge_max": null
+      },
+      "age": "",
+      "matériel_résumé": "Matériel de base",
+      "clés": [
+        "Sens (rapport à soi)"
+      ],
+      "public_cible": [
+        "Professionnels"
+      ],
+      "objectifs": [
+        "Développer la connaissance de soi"
+      ],
+      "mode": "Individuel",
+      "matériel_catégorie": "Matériel de base",
+      "étape_code": "○",
+      "étape_nom": "Autres"
+    },
+    {
+      "nom": "Atelier d'intelligence collective pour faire émerger des projets",
+      "source": "Pratiques d'intelligence collective (inspiration Co-développement, World Café, Forum Ouvert)",
+      "source_url": null,
+      "intention": "Faire émerger collectivement des idées de projets à partir des envies et compétences du groupe. Passer de « je veux » individuels à un « on pourrait » collectif.",
+      "pourquoi": "L'outil active « Utilité », « Action » et « Appartenance » : on se sent utile parce qu'on contribue, on passe à l'action parce qu'un projet concret émerge, et on appartient parce que le projet est vraiment le nôtre.",
+      "matériel": [
+        {
+          "item": "Grande salle avec plusieurs tables ou espaces"
+        },
+        {
+          "item": "Beaucoup de post-its et de feutres"
+        },
+        {
+          "item": "Paperboards (1 par thème ou projet en émergence)"
+        },
+        {
+          "item": "Gommettes pour voter"
+        },
+        {
+          "item": "Optionnel : matériel de prototypage léger (lego, carton)"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Créer un projet collectif",
+          "détail": "Faire émerger 1 à 3 projets concrets portés par des volontaires du groupe."
+        },
+        {
+          "titre": "Faire des choix collectifs",
+          "détail": "Passer d'un foisonnement d'idées à des pistes priorisées."
+        },
+        {
+          "titre": "Générer des idées créatives",
+          "détail": "Ouvrir le champ des possibles avant de choisir."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Introduction et cadrage",
+          "durée": "10 min",
+          "actions": [
+            "Annoncer la question de départ : <em>« Quels projets voudrait-on porter ensemble ? »</em>",
+            "Rappeler les principes de l'intelligence collective : toute idée est bonne, on rebondit, on ne juge pas.",
+            "Poser le cadre temporel : à la fin de l'atelier, on aura 1 à 3 projets émergés."
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Recueil des envies individuelles",
+          "durée": "15 min",
+          "actions": [
+            "Chacun·e écrit sur post-its : <strong>« Ce que j'aimerais voir exister / faire / construire »</strong>.",
+            "Minimum 3 post-its par personne.",
+            "Coller les post-its sur un mur commun."
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Clustering",
+          "durée": "15 min",
+          "actions": [
+            "Regrouper les post-its par thèmes proches.",
+            "Nommer chaque cluster avec le groupe.",
+            "Identifier les thèmes les plus nombreux (signe d'enthousiasme collectif)."
+          ]
+        },
+        {
+          "étape": 4,
+          "titre": "Vote papillon",
+          "durée": "10 min",
+          "actions": [
+            "Chacun·e dispose de 5 gommettes à distribuer sur les clusters qui lui tiennent à cœur.",
+            "Possibilité de mettre plusieurs gommettes sur un seul cluster.",
+            "Dégager les 2-3 clusters prioritaires."
+          ]
+        },
+        {
+          "étape": 5,
+          "titre": "Ateliers par projet (en parallèle)",
+          "durée": "30 min",
+          "actions": [
+            "Chaque cluster prioritaire devient un « atelier projet ».",
+            "Les participant·es se répartissent selon leurs envies.",
+            "Par groupe, préciser : <strong>Qu'est-ce qu'on veut ? Pour qui ? Comment ? Quelle première étape ?</strong>",
+            "Chaque groupe produit une affiche-projet."
+          ]
+        },
+        {
+          "étape": 6,
+          "titre": "Restitution et engagement",
+          "durée": "15 min",
+          "actions": [
+            "Chaque groupe présente son projet en 3 min.",
+            "Identifier un·e « porteur·se » par projet.",
+            "Fixer un rendez-vous de suivi pour chaque projet."
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "Le rôle du·de la facilitateur·ice est crucial : laisser émerger, ne pas imposer.",
+        "Soyez rigoureux·se sur le temps — un atelier qui déborde épuise l'énergie.",
+        "Les projets qui n'ont qu'un·e porteur·se ont peu de chances d'aboutir — privilégier ceux qui en ont 2-3.",
+        "Prévoyez absolument le rendez-vous de suivi : sans cela, l'énergie retombe dans la semaine."
+      ],
+      "variantes": [
+        "Version courte (1h) : supprimer les ateliers par projet en parallèle, s'arrêter au vote.",
+        "Version World Café : rotations entre tables plutôt qu'ateliers fixes.",
+        "Version prototype : ajouter 30 min de prototypage rapide à la fin."
+      ],
+      "id": "atelier-dintelligence-collective-pour-faire-emerger-des-projets",
+      "étape_principale": "Toutes les étapes",
+      "étapes": [
+        "Toutes les étapes"
+      ],
+      "durée": "1h30",
+      "format": "Collectif",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": null,
+        "âge_max": null
+      },
+      "age": "",
+      "matériel_résumé": "Matériel de base",
+      "clés": [
+        "Action (rapport à soi)",
+        "Utilité (Rapport aux autres)",
+        "Appartenance (rapport aux autres)"
+      ],
+      "public_cible": [
+        "Professionnels",
+        "Pair aidants"
+      ],
+      "objectifs": [
+        "Faire des choix collectifs"
+      ],
+      "mode": "Collectif",
+      "matériel_catégorie": "Matériel de base",
+      "étape_code": "∞",
+      "étape_nom": "Toutes les étapes"
+    },
+    {
+      "nom": "Évaluation simplifiée d'un atelier",
+      "source": "Lit uP",
+      "source_url": null,
+      "intention": "Recueillir très rapidement le ressenti du groupe en fin d'atelier, avec un minimum de friction. Outil express pour quand on n'a que 5 minutes.",
+      "pourquoi": "L'outil active « Considération » : même en version rapide, demander l'avis des participant·es signifie qu'on les prend en compte. Et un simple rituel répété installe la culture.",
+      "matériel": [
+        {
+          "item": "Rien (version orale)"
+        },
+        {
+          "item": "OU post-its de couleurs (version visuelle)"
+        },
+        {
+          "item": "OU une échelle imprimée / projetée"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Évaluer un atelier/programme",
+          "détail": "Recueillir un ressenti rapide sans alourdir la séance."
+        },
+        {
+          "titre": "Clôturer symboliquement",
+          "détail": "Marquer la fin de la séance par un geste collectif signifiant."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Choisir un format rapide",
+          "durée": "—",
+          "actions": [
+            "<strong>Format 1 (le plus simple) :</strong> « Sur une échelle de 1 à 10, comment vous sentez-vous en sortant ? »",
+            "<strong>Format 2 (météo) :</strong> « Quel temps fait-il pour vous en sortant ? (Soleil, nuage, orage…) »",
+            "<strong>Format 3 (pouce) :</strong> pouce en l'air / au milieu / en bas.",
+            "<strong>Format 4 (1 mot) :</strong> chacun·e donne un mot qui résume son vécu."
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Tour de table",
+          "durée": "3 à 5 min",
+          "actions": [
+            "Tour de parole rapide : chacun·e donne sa réponse en 5-10 secondes.",
+            "Possibilité d'ajouter une phrase : « Parce que… »",
+            "L'animateur·ice ne commente pas — laissez exister."
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Capture et clôture",
+          "durée": "1 min",
+          "actions": [
+            "Noter rapidement les réponses.",
+            "Remercier.",
+            "Si des points d'attention émergent : « On en reparle à la prochaine séance. »"
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "<strong>Vraiment court :</strong> 5 min max, sinon ce n'est plus cet outil.",
+        "Normalisez la diversité des réponses — pas tout le monde ne doit aller bien.",
+        "Si vous repérez un mal-être, proposez un entretien individuel après.",
+        "Utilisez cet outil à chaque fin de séance pour créer le rituel."
+      ],
+      "variantes": [
+        "Version « 2 mots » : 1 mot pour ce qu'on retient, 1 mot pour ce qu'on voudrait voir changer.",
+        "Version numérique : sondage Mentimeter ou Kahoot pour rendu visuel.",
+        "Version géographique : se positionner dans l'espace (« 1 au fond, 10 près de la porte »).",
+        "Version écrite : 1 post-it par personne dans une boîte anonyme."
+      ],
+      "id": "evaluation-simplifiee-dun-atelier",
+      "étape_principale": "B7. Evaluation",
+      "étapes": [
+        "B7. Evaluation"
+      ],
+      "durée": "10 minutes",
+      "format": "Individuel ou collectif",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": null,
+        "âge_max": null
+      },
+      "age": "",
+      "matériel_résumé": "Matériel de base",
+      "clés": [
+        "Progression (rapport à soi)"
+      ],
+      "public_cible": [
+        "Professionnels"
+      ],
+      "objectifs": [
+        "Evaluer un outil/atelier/programme"
+      ],
+      "mode": "Individuel ou collectif",
+      "matériel_catégorie": "Matériel de base",
+      "étape_code": "B7",
+      "étape_nom": "Evaluation"
+    },
+    {
+      "nom": "Atelier collectif « Mon parcours idéal »",
+      "source": "Lit uP",
+      "source_url": null,
+      "intention": "Faire rêver et projeter chaque jeune dans un futur désirable, puis tirer les fils concrets pour y aller. C'est une démarche de projection qui transforme les rêves en boussole d'action.",
+      "pourquoi": "L'outil active « Sens », « Liberté » et « Appartenance » : chacun·e dessine son propre chemin, s'autorise à rêver grand, et bénéficie du soutien du collectif pour y croire.",
+      "matériel": [
+        {
+          "item": "Grandes feuilles (A3 ou A2) — 1 par personne"
+        },
+        {
+          "item": "Feutres de couleurs, crayons"
+        },
+        {
+          "item": "Magazines à découper (optionnel, pour collages)"
+        },
+        {
+          "item": "Ciseaux, colle"
+        },
+        {
+          "item": "Post-its"
+        }
+      ],
+      "objectifs_détaillés": [
+        {
+          "titre": "Développer la connaissance de soi",
+          "détail": "Identifier ce qui compte vraiment à travers l'exercice de projection."
+        },
+        {
+          "titre": "Se fixer des objectifs",
+          "détail": "Traduire le parcours idéal en premières étapes concrètes."
+        },
+        {
+          "titre": "Créer un collectif",
+          "détail": "Partager ses rêves devant les autres crée un lien fort et engage à l'action."
+        }
+      ],
+      "déroulé": [
+        {
+          "étape": 1,
+          "titre": "Introduction et cadrage",
+          "durée": "15 min",
+          "actions": [
+            "Annoncer : <em>« On va imaginer votre parcours idéal des 3 à 5 prochaines années. »</em>",
+            "Rassurer : pas de bonne ou mauvaise projection, pas de « c'est irréaliste ».",
+            "Présenter le principe : chacun·e va représenter son parcours sur une grande feuille.",
+            "Proposer de fermer les yeux 2 min pour se projeter : « Vous êtes dans 3 ans, tout a bien fonctionné. Que voyez-vous ? »"
+          ]
+        },
+        {
+          "étape": 2,
+          "titre": "Réalisation individuelle",
+          "durée": "60 min",
+          "actions": [
+            "Chacun·e représente son parcours sur sa feuille : mots, dessins, collages.",
+            "Inviter à inclure : formations, expériences pro, lieux, rencontres, projets, moments forts.",
+            "Encourager à <strong>rêver grand</strong> : on n'est pas dans la faisabilité, on est dans l'aspiration.",
+            "Passer individuellement auprès de chaque personne pour relancer si besoin."
+          ]
+        },
+        {
+          "étape": 3,
+          "titre": "Partage en binôme",
+          "durée": "30 min",
+          "actions": [
+            "Par 2, chacun·e présente son parcours idéal (10-12 min).",
+            "L'autre écoute, questionne, reformule.",
+            "Puis inverser."
+          ]
+        },
+        {
+          "étape": 4,
+          "titre": "Premier pas concret",
+          "durée": "30 min",
+          "actions": [
+            "De retour individuellement : identifier 1 <strong>première étape</strong> concrète à faire dans les 3 prochains mois.",
+            "Cette étape doit être : petite, concrète, atteignable, en cohérence avec le parcours idéal.",
+            "L'écrire en bas de la feuille."
+          ]
+        },
+        {
+          "étape": 5,
+          "titre": "Restitution collective et engagement",
+          "durée": "45 min",
+          "actions": [
+            "Tour de parole : chacun·e présente en 3 min son parcours idéal + sa première étape.",
+            "Le groupe applaudit / félicite chaque projection.",
+            "Identifier les points communs, les envies partagées.",
+            "Proposer un rendez-vous de point d'étape à 3 mois."
+          ]
+        }
+      ],
+      "conseils_animation": [
+        "<strong>Cet atelier est long</strong> (3h30) — prévoir des pauses, ne pas condenser.",
+        "Ne jugez pas les projections : tout est légitime, même les plus modestes.",
+        "Créez une atmosphère protégée : musique, lumière tamisée, bienveillance explicite.",
+        "Gardez les feuilles en photo : elles constituent une ressource puissante pour le suivi."
+      ],
+      "variantes": [
+        "Version courte (1h30) : limiter à la projection + première étape, sans la restitution collective.",
+        "Version « 10 ans » : projeter sur un horizon plus long pour débrider l'imagination.",
+        "Version théâtralisée : chacun·e joue son propre « moi dans 3 ans » au lieu de dessiner.",
+        "Version accompagnement individuel : version en entretien, en 1h, pour un·e jeune seul·e."
+      ],
+      "id": "atelier-collectif-mon-parcours-ideal",
+      "étape_principale": "Toutes les étapes",
+      "étapes": [
+        "Toutes les étapes"
+      ],
+      "durée": "3h30",
+      "format": "Collectif",
+      "participants": {
+        "min": null,
+        "max": null,
+        "âge_min": null,
+        "âge_max": null
+      },
+      "age": "",
+      "matériel_résumé": "Matériel de base",
+      "clés": [
+        "Utilité (Rapport aux autres)",
+        "Appartenance (rapport aux autres)",
+        "Action (rapport à soi)",
+        "Liberté (rapport à soi)",
+        "Sens (rapport à soi)",
+        "Considération (rapport aux autres)"
+      ],
+      "public_cible": [
+        "Professionnels"
+      ],
+      "objectifs": [
+        "Faire des choix collectifs",
+        "Générer des idées créatives",
+        "Evaluer un outil/atelier/programme"
+      ],
+      "mode": "Collectif",
+      "matériel_catégorie": "Matériel de base",
+      "étape_code": "∞",
+      "étape_nom": "Toutes les étapes"
+    }
+  ]
+}
