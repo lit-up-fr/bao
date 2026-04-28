@@ -15,6 +15,7 @@
     --canard-light: #b3dfe0;
     --jaune: #FCC33E;
     --jaune-dark: #e0a920;
+    --jaune-accent: #856100; /* Pour les textes : contraste WCAG AA */
     --jaune-light: #ffe8a6;
     --anthracite: #2B3442;
     --anthracite-soft: #4a5568;
@@ -24,18 +25,18 @@
     --noir: #000000;
     --line: rgba(43, 52, 66, 0.12);
     --line-strong: rgba(43, 52, 66, 0.22);
-    --muted: rgba(43, 52, 66, 0.65);
+    --muted: rgba(43, 52, 66, 0.75);
 
-    /* === COULEURS PAR ÉTAPE (palette Lit uP) === */
-    --step-A: var(--canard);
+    /* === COULEURS PAR ÉTAPE (palette Lit uP, ajustées WCAG AA) === */
+    --step-A: var(--canard-dark);
     --step-B1: var(--anthracite);
     --step-B2: var(--prune);
-    --step-B3: var(--jaune-dark);
+    --step-B3: #8a6500; /* jaune foncé pour contraste blanc/badge AA */
     --step-B4: var(--canard-dark);
     --step-B5: var(--prune);
     --step-B6: var(--anthracite-soft);
     --step-B7: var(--anthracite);
-    --step-C: var(--canard);
+    --step-C: var(--canard-dark);
     --step-other: var(--anthracite-soft);
 
     /* === CLÉS D'ENGAGEMENT === */
@@ -116,7 +117,7 @@
 
   /* Bandeau supérieur turquoise (signature Lit uP) */
   .landing-band {
-    background: var(--canard);
+    background: var(--canard-dark);
     padding: 14px 32px;
     position: relative;
     z-index: 3;
@@ -137,16 +138,16 @@
   }
   .band-sub {
     font-family: 'Caveat', cursive;
-    color: var(--jaune);
-    font-size: 22px;
+    color: white;
+    font-size: 26px;
+    font-weight: 700;
     line-height: 1;
   }
 
   .band-date {
-    font-size: 13px;
+    font-size: 14px;
     color: white;
-    opacity: 0.85;
-    font-weight: 400;
+    font-weight: 700;
   }
 
   /* Vagues jaunes décoratives en haut */
@@ -221,7 +222,7 @@
   .hero-title .hand-accent {
     font-family: 'Caveat', cursive;
     font-weight: 600;
-    color: var(--jaune-dark);
+    color: var(--jaune-accent);
     font-size: 0.85em;
     display: inline-block;
     transform: rotate(-2deg);
@@ -238,7 +239,7 @@
   .hero-signature {
     font-family: 'Caveat', cursive;
     font-size: 22px;
-    color: var(--canard);
+    color: var(--canard-dark);
     margin-bottom: 48px;
   }
 
@@ -290,7 +291,7 @@
     color: var(--prune);
   }
   .illus-confetti.c1 { top: 5%; right: 8%; font-size: 36px; transform: rotate(15deg); }
-  .illus-confetti.c2 { bottom: 12%; right: 6%; font-size: 32px; transform: rotate(-8deg); color: var(--jaune-dark); }
+  .illus-confetti.c2 { bottom: 12%; right: 6%; font-size: 32px; transform: rotate(-8deg); color: var(--jaune-accent); }
 
   /* Section parcours */
   .parcours-section {
@@ -309,7 +310,7 @@
   .parcours-hand {
     font-family: 'Caveat', cursive;
     font-size: 24px;
-    color: var(--jaune-dark);
+    color: var(--jaune-accent);
     margin-bottom: 6px;
     font-weight: 500;
   }
@@ -350,7 +351,7 @@
     border-color: transparent;
   }
   .parcours-card.card-canard:hover { border-color: var(--canard); }
-  .parcours-card.card-jaune:hover { border-color: var(--jaune-dark); }
+  .parcours-card.card-jaune:hover { border-color: var(--jaune-accent); }
   .parcours-card.card-prune:hover { border-color: var(--prune); }
 
   .parcours-card .bubble {
@@ -375,7 +376,7 @@
     font-weight: 600;
   }
   .card-canard .parcours-num { color: var(--canard); }
-  .card-jaune .parcours-num { color: var(--jaune-dark); }
+  .card-jaune .parcours-num { color: var(--jaune-accent); }
   .card-prune .parcours-num { color: var(--prune); }
 
   .parcours-card-title {
@@ -403,8 +404,8 @@
     letter-spacing: 0.05em;
     margin-top: 8px;
   }
-  .card-canard .parcours-cta { color: var(--canard); }
-  .card-jaune .parcours-cta { color: var(--jaune-dark); }
+  .card-canard .parcours-cta { color: var(--canard-dark); }
+  .card-jaune .parcours-cta { color: var(--jaune-accent); }
   .card-prune .parcours-cta { color: var(--prune); }
   .parcours-cta .arrow { transition: transform 0.3s ease; }
   .parcours-card:hover .parcours-cta .arrow { transform: translateX(5px); }
@@ -671,14 +672,14 @@
     margin-left: auto;
     font-size: 11px;
     font-weight: 600;
-    opacity: 0.6;
+    color: var(--muted);
   }
   .chip.active {
-    background: var(--canard);
+    background: var(--canard-dark);
     color: white;
-    border-color: var(--canard);
+    border-color: var(--canard-dark);
   }
-  .chip.active .chip-count { opacity: 0.85; }
+  .chip.active .chip-count { color: white; font-weight: 700; }
 
   .step-chip-code {
     font-weight: 800;
@@ -735,7 +736,7 @@
   .results-count .hand-label {
     font-family: 'Caveat', cursive;
     font-weight: 500;
-    color: var(--jaune-dark);
+    color: var(--jaune-accent);
     font-size: 22px;
     margin-left: 6px;
   }
@@ -798,8 +799,8 @@
   }
 
   .card-step-tag {
-    font-size: 11px;
-    font-weight: 700;
+    font-size: 12px;
+    font-weight: 800;
     letter-spacing: 0.04em;
     padding: 4px 10px;
     border-radius: 12px;
@@ -894,7 +895,7 @@
     color: var(--muted);
   }
   .no-results .hand {
-    color: var(--jaune-dark);
+    color: var(--jaune-accent);
     font-size: 28px;
     display: block;
     margin-bottom: 8px;
@@ -1177,7 +1178,7 @@
     margin-bottom: 6px;
   }
   .detail-infobox.box-intention .box-label { color: var(--canard-dark); }
-  .detail-infobox.box-pourquoi .box-label { color: var(--jaune-dark); }
+  .detail-infobox.box-pourquoi .box-label { color: var(--jaune-accent); }
   .detail-infobox .box-text {
     font-size: 15px;
     line-height: 1.55;
@@ -1328,7 +1329,7 @@
   }
   .detail-tips-variante {
     background: #fff7df;
-    border-left-color: var(--jaune-dark);
+    border-left-color: var(--jaune-accent);
   }
   .detail-tips ul {
     list-style: none;
@@ -1351,7 +1352,7 @@
   }
   .detail-tips-variante li::before {
     content: '·';
-    color: var(--jaune-dark);
+    color: var(--jaune-accent);
     font-weight: 900;
     font-size: 18px;
     line-height: 1;
@@ -1540,7 +1541,7 @@
     margin-bottom: 16px;
   }
   .onboarding-title em { color: var(--canard); font-style: normal; }
-  .onboarding-title em.jaune { color: var(--jaune-dark); }
+  .onboarding-title em.jaune { color: var(--jaune-accent); }
   .onboarding-title em.prune { color: var(--prune); }
 
   .onboarding-intro {
@@ -1724,7 +1725,7 @@
   }
   .comprendre-hero-hand {
     font-family: 'Caveat', cursive;
-    color: var(--jaune);
+    color: var(--jaune-accent);
     font-size: 26px;
     margin-bottom: 8px;
   }
@@ -1751,7 +1752,7 @@
 
   .comprendre-section-label {
     font-family: 'Caveat', cursive;
-    color: var(--jaune-dark);
+    color: var(--jaune-accent);
     font-size: 22px;
     margin-bottom: 4px;
   }
@@ -1968,7 +1969,7 @@
     font-family: 'Caveat', cursive;
     font-style: normal;
     font-weight: 600;
-    color: var(--jaune-dark);
+    color: var(--jaune-accent);
     font-size: 22px;
   }
   .parcours-guides-toggle {
@@ -2246,7 +2247,7 @@
     color: var(--line-strong);
   }
   .fav-btn:hover { transform: scale(1.15); }
-  .fav-btn.active { color: var(--jaune-dark); }
+  .fav-btn.active { color: var(--jaune-accent); }
 
   .card-fav {
     position: absolute;
@@ -2267,7 +2268,7 @@
     background: var(--jaune-light);
     transform: scale(1.15);
   }
-  .card-fav.active { color: var(--jaune-dark); }
+  .card-fav.active { color: var(--jaune-accent); }
 
   .card { position: relative; }
 
@@ -2553,7 +2554,7 @@
           <strong id="result-num">—</strong> outils
           <span class="hand-label">pour avancer.</span>
         </div>
-        <select class="sort-select" id="sort">
+        <select class="sort-select" id="sort" aria-label="Trier les outils">
           <option value="step">Trier par étape du parcours</option>
           <option value="name">Trier par nom</option>
           <option value="duration">Trier par durée</option>
@@ -2584,10 +2585,10 @@ const TOOLS = [
   {nom:"Post-it dans le dos",cat:[],etape:[],duree:"",mode:"",obj:[],cles:[],mat:"Matériel de base",aud:[]},
   {nom:"Ice breaker",cat:[],etape:[],duree:"",mode:"",obj:["Créer un collectif"],cles:[],mat:"",aud:["Pair aidants"]},
   {nom:"Papillon Voting",cat:["Outils"],etape:["B4. Priorisation"],duree:"20 minutes",mode:"Collectif",obj:["Faire des choix collectifs"],cles:["Liberté (rapport à soi)"],mat:"Matériel de base",aud:["Professionnels","Pair aidants"]},
-  {nom:"Tour de Froebel",cat:["Outils"],etape:["A. Cadrage - Connexion"],duree:"20 minutes",mode:"Collectif",obj:["Créer un collectif"],cles:["Action (rapport à soi)"],mat:"Achats préalables",aud:["Professionnels"]},
+  {nom:"Tour de Froebel",cat:["Outils"],etape:["A. Cadrage - Connexion"],duree:"25 minutes",mode:"Collectif",obj:["Créer un collectif"],cles:["Action (rapport à soi)"],mat:"Achats préalables",aud:["Professionnels"]},
   {nom:"Jeu des aspirations (ou du Matching)",cat:["Atelier"],etape:["Autres"],duree:"40 minutes",mode:"Collectif",obj:["Développer la connaissance de soi"],cles:["Sens (rapport à soi)"],mat:"Achats préalables",aud:["Professionnels"]},
   {nom:"Marshmallow Game",cat:["Outils"],etape:["B6. Test","A. Cadrage - Connexion"],duree:"35 minutes",mode:"Collectif",obj:["Faire des choix collectifs","Créer un collectif"],cles:["Action (rapport à soi)"],mat:"Achats préalables",aud:["Professionnels","Pair aidants"]},
-  {nom:"Débriefing d'atelier collectif avec les « clés de l'engagement »",cat:["Outils"],etape:["C. Débriefing"],duree:"10 à 30 minutes",mode:"Collectif",obj:["Evaluer un outil/atelier/programme"],cles:["Considération (rapport aux autres)"],mat:"Matériel de base",aud:["Professionnels","Pair aidants"]},
+  {nom:"Débriefing d'atelier collectif avec les « clés de l'engagement »",cat:["Outils"],etape:["C. Débriefing"],duree:"30 à 40 minutes",mode:"Collectif",obj:["Evaluer un outil/atelier/programme"],cles:["Considération (rapport aux autres)"],mat:"Matériel de base",aud:["Professionnels","Pair aidants"]},
   {nom:"Entretien individuel « Clés d'engagement »",cat:["Atelier"],etape:["C. Débriefing"],duree:"25 minutes",mode:"Individuel",obj:["Evaluer un outil/atelier/programme"],cles:["Considération (rapport aux autres)","Sens (rapport à soi)"],mat:"Matériel de base",aud:["Professionnels"]},
   {nom:"Atelier collectif « Co-création d'un atelier thématique avec les jeunes »",cat:["Atelier"],etape:["Toutes les étapes"],duree:"1h30",mode:"Collectif",obj:["Faire des choix collectifs","Générer des idées créatives","Créer un projet"],cles:["Utilité (Rapport aux autres)","Liberté (rapport à soi)","Action (rapport à soi)"],mat:"Matériel de base",aud:["Professionnels"]},
   {nom:"Entretien individuel « Se fixer des objectifs »",cat:["Atelier"],etape:["Toutes les étapes"],duree:"1h",mode:"Individuel",obj:["Se fixer des objectifs"],cles:["Sens (rapport à soi)","Progression (rapport à soi)"],mat:"Matériel de base",aud:["Professionnels"]},
@@ -2602,8 +2603,8 @@ const TOOLS = [
   {nom:"Jeu de cartes des compétences",cat:["Outils"],etape:["C. Débriefing"],duree:"15 min",mode:"Individuel ou collectif",obj:["Développer la connaissance de soi"],cles:["Progression (rapport à soi)"],mat:"Achats préalables",aud:["Professionnels","Pair aidants"]},
   {nom:"Casino Royal",cat:["Outils"],etape:["A. Cadrage - Connexion"],duree:"45 minutes",mode:"Collectif",obj:["Comprendre l'autre et communiquer"],cles:["Appartenance (rapport aux autres)","Action (rapport à soi)","Plaisir (rapport à soi)"],mat:"Matériel de base",aud:["Professionnels"]},
   {nom:"Atelier d'intelligence collective pour faire émerger des projets",cat:["Atelier"],etape:["Toutes les étapes"],duree:"1h30",mode:"Collectif",obj:["Faire des choix collectifs"],cles:["Action (rapport à soi)","Utilité (Rapport aux autres)","Appartenance (rapport aux autres)"],mat:"Matériel de base",aud:["Professionnels","Pair aidants"]},
-  {nom:"Évaluation simplifiée d'un atelier",cat:["Outils"],etape:["B7. Evaluation"],duree:"10 minutes",mode:"Individuel ou collectif",obj:["Evaluer un outil/atelier/programme"],cles:["Progression (rapport à soi)"],mat:"Matériel de base",aud:["Professionnels"]},
-  {nom:"Débat mouvant",cat:["Outils"],etape:["B1. Analyse/Compréhension"],duree:"30 minutes",mode:"Collectif",obj:["Comprendre l'autre et communiquer"],cles:["Considération (rapport aux autres)"],mat:"Matériel de base",aud:["Professionnels","Pair aidants"]},
+  {nom:"Évaluation simplifiée d'un atelier",cat:["Outils"],etape:["B7. Evaluation"],duree:"5 à 10 minutes",mode:"Individuel ou collectif",obj:["Evaluer un outil/atelier/programme"],cles:["Progression (rapport à soi)"],mat:"Matériel de base",aud:["Professionnels"]},
+  {nom:"Débat mouvant",cat:["Outils"],etape:["B1. Analyse/Compréhension"],duree:"45 à 60 minutes",mode:"Collectif",obj:["Comprendre l'autre et communiquer"],cles:["Considération (rapport aux autres)"],mat:"Matériel de base",aud:["Professionnels","Pair aidants"]},
   {nom:"Atelier collectif « Mon parcours idéal »",cat:["Atelier"],etape:["Toutes les étapes"],duree:"3h30",mode:"Collectif",obj:["Faire des choix collectifs","Générer des idées créatives","Evaluer un outil/atelier/programme"],cles:["Utilité (Rapport aux autres)","Appartenance (rapport aux autres)","Action (rapport à soi)","Liberté (rapport à soi)","Sens (rapport à soi)","Considération (rapport aux autres)"],mat:"Matériel de base",aud:["Professionnels"]}
 ];
 
@@ -3022,7 +3023,10 @@ function renderGrid() {
   }
 
   list.forEach((t, i) => {
-    const card = document.createElement('button');
+    const card = document.createElement('div');
+    card.setAttribute('role', 'button');
+    card.setAttribute('tabindex', '0');
+    card.setAttribute('aria-label', `Voir le détail de l'outil ${t.nom}`);
     card.className = 'card fade-in';
     card.style.animationDelay = `${Math.min(i * 25, 250)}ms`;
     const primaryStep = stepFromFull(t.etape[0]);
@@ -3059,6 +3063,12 @@ function renderGrid() {
       <div class="card-keys">${keys || '<span style="font-size:11px;color:var(--muted);opacity:0.6">Fiche à enrichir</span>'}</div>
     `;
     card.addEventListener('click', () => openModal(t));
+    card.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        openModal(t);
+      }
+    });
     grid.appendChild(card);
   });
 }
@@ -7709,11 +7719,15 @@ renderGrid = function() {
     if (!title) return;
     const toolName = title.textContent;
     if (card.querySelector('.card-fav')) return; // déjà ajouté
-    const favBtn = document.createElement('button');
+    // Favori : pas un button HTML pour éviter le nesting interactive
+    // C'est un toggle visuel à l'intérieur de la carte
+    const favBtn = document.createElement('span');
     favBtn.className = 'card-fav' + (isFavorite(toolName) ? ' active' : '');
     favBtn.dataset.tool = toolName;
     favBtn.textContent = isFavorite(toolName) ? '★' : '☆';
-    favBtn.title = isFavorite(toolName) ? 'Retirer des favoris' : 'Ajouter aux favoris';
+    const favLabel = isFavorite(toolName) ? 'Retirer des favoris' : 'Ajouter aux favoris';
+    favBtn.title = favLabel;
+    favBtn.setAttribute('aria-hidden', 'true'); // les utilisateurs de lecteurs d'écran utilisent le bouton dans la modale
     favBtn.addEventListener('click', (e) => toggleFavorite(toolName, e));
     card.appendChild(favBtn);
   });
